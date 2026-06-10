@@ -1,0 +1,1001 @@
+﻿SENTENCE_ID,ITEM_ID,LANGUAGE,PHENOMENON,SCALAR_TERM,CONDITION,SENTENCE,OPTION_LITERAL,OPTION_PRAGMATIC,OPTION_A,OPTION_B,EXPECTED,CORRECT_TYPE,COUNTERBALANCED,MODEL_RESPONSE,RUN1,RUN2,RUN3,MAJORITY_RESPONSE,CORRECT,PROMPT
+SOME-001,EN-SOME-001-NC,EN,scalar_implicature,some,no_context,Some women are needing the library to conspire.,At least one of the women are needing the library to conspire — and possibly all of them,At least one of the women are needing the library to conspire — but not all of them,At least one of the women are needing the library to conspire — but not all of them,At least one of the women are needing the library to conspire — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some women are needing the library to conspire.""
+
+A) At least one of the women are needing the library to conspire — but not all of them
+B) At least one of the women are needing the library to conspire — and possibly all of them
+
+Answer with only A or B."
+SOME-001,EN-SOME-001-UB,EN,scalar_implicature,some,upper_bound_QUD,Some women are needing the library to conspire.,At least one of the women are needing the library to conspire — and possibly all of them,At least one of the women are needing the library to conspire — but not all of them,At least one of the women are needing the library to conspire — and possibly all of them,At least one of the women are needing the library to conspire — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the women are needing the library to conspire?""
+Speaker B: ""Some women are needing the library to conspire.""
+
+A) At least one of the women are needing the library to conspire — and possibly all of them
+B) At least one of the women are needing the library to conspire — but not all of them
+
+Answer with only A or B."
+SOME-001,EN-SOME-001-LB,EN,scalar_implicature,some,lower_bound_QUD,Some women are needing the library to conspire.,At least one of the women are needing the library to conspire — and possibly all of them,At least one of the women are needing the library to conspire — but not all of them,At least one of the women are needing the library to conspire — but not all of them,At least one of the women are needing the library to conspire — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the women are needing the library to conspire?""
+Speaker B: ""Some women are needing the library to conspire.""
+
+A) At least one of the women are needing the library to conspire — but not all of them
+B) At least one of the women are needing the library to conspire — and possibly all of them
+
+Answer with only A or B."
+SOME-002,EN-SOME-002-NC,EN,scalar_implicature,some,no_context,Some men criticized Travis.,At least one of the men criticized Travis — and possibly all of them,At least one of the men criticized Travis — but not all of them,At least one of the men criticized Travis — and possibly all of them,At least one of the men criticized Travis — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some men criticized Travis.""
+
+A) At least one of the men criticized Travis — and possibly all of them
+B) At least one of the men criticized Travis — but not all of them
+
+Answer with only A or B."
+SOME-002,EN-SOME-002-UB,EN,scalar_implicature,some,upper_bound_QUD,Some men criticized Travis.,At least one of the men criticized Travis — and possibly all of them,At least one of the men criticized Travis — but not all of them,At least one of the men criticized Travis — but not all of them,At least one of the men criticized Travis — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the men criticized Travis?""
+Speaker B: ""Some men criticized Travis.""
+
+A) At least one of the men criticized Travis — but not all of them
+B) At least one of the men criticized Travis — and possibly all of them
+
+Answer with only A or B."
+SOME-002,EN-SOME-002-LB,EN,scalar_implicature,some,lower_bound_QUD,Some men criticized Travis.,At least one of the men criticized Travis — and possibly all of them,At least one of the men criticized Travis — but not all of them,At least one of the men criticized Travis — and possibly all of them,At least one of the men criticized Travis — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the men criticized Travis?""
+Speaker B: ""Some men criticized Travis.""
+
+A) At least one of the men criticized Travis — and possibly all of them
+B) At least one of the men criticized Travis — but not all of them
+
+Answer with only A or B."
+SOME-003,EN-SOME-003-NC,EN,scalar_implicature,some,no_context,Some doctors had disagreed.,At least one of the doctors had disagreed — and possibly all of them,At least one of the doctors had disagreed — but not all of them,At least one of the doctors had disagreed — but not all of them,At least one of the doctors had disagreed — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some doctors had disagreed.""
+
+A) At least one of the doctors had disagreed — but not all of them
+B) At least one of the doctors had disagreed — and possibly all of them
+
+Answer with only A or B."
+SOME-003,EN-SOME-003-UB,EN,scalar_implicature,some,upper_bound_QUD,Some doctors had disagreed.,At least one of the doctors had disagreed — and possibly all of them,At least one of the doctors had disagreed — but not all of them,At least one of the doctors had disagreed — and possibly all of them,At least one of the doctors had disagreed — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the doctors had disagreed?""
+Speaker B: ""Some doctors had disagreed.""
+
+A) At least one of the doctors had disagreed — and possibly all of them
+B) At least one of the doctors had disagreed — but not all of them
+
+Answer with only A or B."
+SOME-003,EN-SOME-003-LB,EN,scalar_implicature,some,lower_bound_QUD,Some doctors had disagreed.,At least one of the doctors had disagreed — and possibly all of them,At least one of the doctors had disagreed — but not all of them,At least one of the doctors had disagreed — but not all of them,At least one of the doctors had disagreed — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the doctors had disagreed?""
+Speaker B: ""Some doctors had disagreed.""
+
+A) At least one of the doctors had disagreed — but not all of them
+B) At least one of the doctors had disagreed — and possibly all of them
+
+Answer with only A or B."
+SOME-004,EN-SOME-004-NC,EN,scalar_implicature,some,no_context,Some students had complained.,At least one of the students had complained — and possibly all of them,At least one of the students had complained — but not all of them,At least one of the students had complained — and possibly all of them,At least one of the students had complained — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some students had complained.""
+
+A) At least one of the students had complained — and possibly all of them
+B) At least one of the students had complained — but not all of them
+
+Answer with only A or B."
+SOME-004,EN-SOME-004-UB,EN,scalar_implicature,some,upper_bound_QUD,Some students had complained.,At least one of the students had complained — and possibly all of them,At least one of the students had complained — but not all of them,At least one of the students had complained — but not all of them,At least one of the students had complained — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the students had complained?""
+Speaker B: ""Some students had complained.""
+
+A) At least one of the students had complained — but not all of them
+B) At least one of the students had complained — and possibly all of them
+
+Answer with only A or B."
+SOME-004,EN-SOME-004-LB,EN,scalar_implicature,some,lower_bound_QUD,Some students had complained.,At least one of the students had complained — and possibly all of them,At least one of the students had complained — but not all of them,At least one of the students had complained — and possibly all of them,At least one of the students had complained — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the students had complained?""
+Speaker B: ""Some students had complained.""
+
+A) At least one of the students had complained — and possibly all of them
+B) At least one of the students had complained — but not all of them
+
+Answer with only A or B."
+SOME-005,EN-SOME-005-NC,EN,scalar_implicature,some,no_context,Some men were leaving.,At least one of the men were leaving — and possibly all of them,At least one of the men were leaving — but not all of them,At least one of the men were leaving — but not all of them,At least one of the men were leaving — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some men were leaving.""
+
+A) At least one of the men were leaving — but not all of them
+B) At least one of the men were leaving — and possibly all of them
+
+Answer with only A or B."
+SOME-005,EN-SOME-005-UB,EN,scalar_implicature,some,upper_bound_QUD,Some men were leaving.,At least one of the men were leaving — and possibly all of them,At least one of the men were leaving — but not all of them,At least one of the men were leaving — and possibly all of them,At least one of the men were leaving — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the men were leaving?""
+Speaker B: ""Some men were leaving.""
+
+A) At least one of the men were leaving — and possibly all of them
+B) At least one of the men were leaving — but not all of them
+
+Answer with only A or B."
+SOME-005,EN-SOME-005-LB,EN,scalar_implicature,some,lower_bound_QUD,Some men were leaving.,At least one of the men were leaving — and possibly all of them,At least one of the men were leaving — but not all of them,At least one of the men were leaving — but not all of them,At least one of the men were leaving — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the men were leaving?""
+Speaker B: ""Some men were leaving.""
+
+A) At least one of the men were leaving — but not all of them
+B) At least one of the men were leaving — and possibly all of them
+
+Answer with only A or B."
+SOME-006,EN-SOME-006-NC,EN,scalar_implicature,some,no_context,Some children questioned Keith.,At least one of the children questioned Keith — and possibly all of them,At least one of the children questioned Keith — but not all of them,At least one of the children questioned Keith — and possibly all of them,At least one of the children questioned Keith — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some children questioned Keith.""
+
+A) At least one of the children questioned Keith — and possibly all of them
+B) At least one of the children questioned Keith — but not all of them
+
+Answer with only A or B."
+SOME-006,EN-SOME-006-UB,EN,scalar_implicature,some,upper_bound_QUD,Some children questioned Keith.,At least one of the children questioned Keith — and possibly all of them,At least one of the children questioned Keith — but not all of them,At least one of the children questioned Keith — but not all of them,At least one of the children questioned Keith — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the children questioned Keith?""
+Speaker B: ""Some children questioned Keith.""
+
+A) At least one of the children questioned Keith — but not all of them
+B) At least one of the children questioned Keith — and possibly all of them
+
+Answer with only A or B."
+SOME-006,EN-SOME-006-LB,EN,scalar_implicature,some,lower_bound_QUD,Some children questioned Keith.,At least one of the children questioned Keith — and possibly all of them,At least one of the children questioned Keith — but not all of them,At least one of the children questioned Keith — and possibly all of them,At least one of the children questioned Keith — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the children questioned Keith?""
+Speaker B: ""Some children questioned Keith.""
+
+A) At least one of the children questioned Keith — and possibly all of them
+B) At least one of the children questioned Keith — but not all of them
+
+Answer with only A or B."
+SOME-007,EN-SOME-007-NC,EN,scalar_implicature,some,no_context,Some people had questioned Steven.,At least one of the people had questioned Steven — and possibly all of them,At least one of the people had questioned Steven — but not all of them,At least one of the people had questioned Steven — but not all of them,At least one of the people had questioned Steven — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some people had questioned Steven.""
+
+A) At least one of the people had questioned Steven — but not all of them
+B) At least one of the people had questioned Steven — and possibly all of them
+
+Answer with only A or B."
+SOME-007,EN-SOME-007-UB,EN,scalar_implicature,some,upper_bound_QUD,Some people had questioned Steven.,At least one of the people had questioned Steven — and possibly all of them,At least one of the people had questioned Steven — but not all of them,At least one of the people had questioned Steven — and possibly all of them,At least one of the people had questioned Steven — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the people had questioned Steven?""
+Speaker B: ""Some people had questioned Steven.""
+
+A) At least one of the people had questioned Steven — and possibly all of them
+B) At least one of the people had questioned Steven — but not all of them
+
+Answer with only A or B."
+SOME-007,EN-SOME-007-LB,EN,scalar_implicature,some,lower_bound_QUD,Some people had questioned Steven.,At least one of the people had questioned Steven — and possibly all of them,At least one of the people had questioned Steven — but not all of them,At least one of the people had questioned Steven — but not all of them,At least one of the people had questioned Steven — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the people had questioned Steven?""
+Speaker B: ""Some people had questioned Steven.""
+
+A) At least one of the people had questioned Steven — but not all of them
+B) At least one of the people had questioned Steven — and possibly all of them
+
+Answer with only A or B."
+SOME-008,EN-SOME-008-NC,EN,scalar_implicature,some,no_context,Some people were wearing the scarves.,At least one of the people were wearing the scarves — and possibly all of them,At least one of the people were wearing the scarves — but not all of them,At least one of the people were wearing the scarves — and possibly all of them,At least one of the people were wearing the scarves — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some people were wearing the scarves.""
+
+A) At least one of the people were wearing the scarves — and possibly all of them
+B) At least one of the people were wearing the scarves — but not all of them
+
+Answer with only A or B."
+SOME-008,EN-SOME-008-UB,EN,scalar_implicature,some,upper_bound_QUD,Some people were wearing the scarves.,At least one of the people were wearing the scarves — and possibly all of them,At least one of the people were wearing the scarves — but not all of them,At least one of the people were wearing the scarves — but not all of them,At least one of the people were wearing the scarves — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the people were wearing the scarves?""
+Speaker B: ""Some people were wearing the scarves.""
+
+A) At least one of the people were wearing the scarves — but not all of them
+B) At least one of the people were wearing the scarves — and possibly all of them
+
+Answer with only A or B."
+SOME-008,EN-SOME-008-LB,EN,scalar_implicature,some,lower_bound_QUD,Some people were wearing the scarves.,At least one of the people were wearing the scarves — and possibly all of them,At least one of the people were wearing the scarves — but not all of them,At least one of the people were wearing the scarves — and possibly all of them,At least one of the people were wearing the scarves — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the people were wearing the scarves?""
+Speaker B: ""Some people were wearing the scarves.""
+
+A) At least one of the people were wearing the scarves — and possibly all of them
+B) At least one of the people were wearing the scarves — but not all of them
+
+Answer with only A or B."
+SOME-009,EN-SOME-009-NC,EN,scalar_implicature,some,no_context,Some drivers would research the governments.,At least one of the drivers would research the governments — and possibly all of them,At least one of the drivers would research the governments — but not all of them,At least one of the drivers would research the governments — but not all of them,At least one of the drivers would research the governments — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some drivers would research the governments.""
+
+A) At least one of the drivers would research the governments — but not all of them
+B) At least one of the drivers would research the governments — and possibly all of them
+
+Answer with only A or B."
+SOME-009,EN-SOME-009-UB,EN,scalar_implicature,some,upper_bound_QUD,Some drivers would research the governments.,At least one of the drivers would research the governments — and possibly all of them,At least one of the drivers would research the governments — but not all of them,At least one of the drivers would research the governments — and possibly all of them,At least one of the drivers would research the governments — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the drivers would research the governments?""
+Speaker B: ""Some drivers would research the governments.""
+
+A) At least one of the drivers would research the governments — and possibly all of them
+B) At least one of the drivers would research the governments — but not all of them
+
+Answer with only A or B."
+SOME-009,EN-SOME-009-LB,EN,scalar_implicature,some,lower_bound_QUD,Some drivers would research the governments.,At least one of the drivers would research the governments — and possibly all of them,At least one of the drivers would research the governments — but not all of them,At least one of the drivers would research the governments — but not all of them,At least one of the drivers would research the governments — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the drivers would research the governments?""
+Speaker B: ""Some drivers would research the governments.""
+
+A) At least one of the drivers would research the governments — but not all of them
+B) At least one of the drivers would research the governments — and possibly all of them
+
+Answer with only A or B."
+SOME-010,EN-SOME-010-NC,EN,scalar_implicature,some,no_context,Some people should reference the essays.,At least one of the people should reference the essays — and possibly all of them,At least one of the people should reference the essays — but not all of them,At least one of the people should reference the essays — and possibly all of them,At least one of the people should reference the essays — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some people should reference the essays.""
+
+A) At least one of the people should reference the essays — and possibly all of them
+B) At least one of the people should reference the essays — but not all of them
+
+Answer with only A or B."
+SOME-010,EN-SOME-010-UB,EN,scalar_implicature,some,upper_bound_QUD,Some people should reference the essays.,At least one of the people should reference the essays — and possibly all of them,At least one of the people should reference the essays — but not all of them,At least one of the people should reference the essays — but not all of them,At least one of the people should reference the essays — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the people should reference the essays?""
+Speaker B: ""Some people should reference the essays.""
+
+A) At least one of the people should reference the essays — but not all of them
+B) At least one of the people should reference the essays — and possibly all of them
+
+Answer with only A or B."
+SOME-010,EN-SOME-010-LB,EN,scalar_implicature,some,lower_bound_QUD,Some people should reference the essays.,At least one of the people should reference the essays — and possibly all of them,At least one of the people should reference the essays — but not all of them,At least one of the people should reference the essays — and possibly all of them,At least one of the people should reference the essays — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the people should reference the essays?""
+Speaker B: ""Some people should reference the essays.""
+
+A) At least one of the people should reference the essays — and possibly all of them
+B) At least one of the people should reference the essays — but not all of them
+
+Answer with only A or B."
+SOME-011,EN-SOME-011-NC,EN,scalar_implicature,some,no_context,Some students should forget about who won't mutter.,At least one of the students should forget about who won't mutter — and possibly all of them,At least one of the students should forget about who won't mutter — but not all of them,At least one of the students should forget about who won't mutter — but not all of them,At least one of the students should forget about who won't mutter — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some students should forget about who won't mutter.""
+
+A) At least one of the students should forget about who won't mutter — but not all of them
+B) At least one of the students should forget about who won't mutter — and possibly all of them
+
+Answer with only A or B."
+SOME-011,EN-SOME-011-UB,EN,scalar_implicature,some,upper_bound_QUD,Some students should forget about who won't mutter.,At least one of the students should forget about who won't mutter — and possibly all of them,At least one of the students should forget about who won't mutter — but not all of them,At least one of the students should forget about who won't mutter — and possibly all of them,At least one of the students should forget about who won't mutter — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the students should forget about who won't mutter?""
+Speaker B: ""Some students should forget about who won't mutter.""
+
+A) At least one of the students should forget about who won't mutter — and possibly all of them
+B) At least one of the students should forget about who won't mutter — but not all of them
+
+Answer with only A or B."
+SOME-011,EN-SOME-011-LB,EN,scalar_implicature,some,lower_bound_QUD,Some students should forget about who won't mutter.,At least one of the students should forget about who won't mutter — and possibly all of them,At least one of the students should forget about who won't mutter — but not all of them,At least one of the students should forget about who won't mutter — but not all of them,At least one of the students should forget about who won't mutter — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the students should forget about who won't mutter?""
+Speaker B: ""Some students should forget about who won't mutter.""
+
+A) At least one of the students should forget about who won't mutter — but not all of them
+B) At least one of the students should forget about who won't mutter — and possibly all of them
+
+Answer with only A or B."
+SOME-012,EN-SOME-012-NC,EN,scalar_implicature,some,no_context,Some teenagers criticize Guy.,At least one of the teenagers criticize Guy — and possibly all of them,At least one of the teenagers criticize Guy — but not all of them,At least one of the teenagers criticize Guy — and possibly all of them,At least one of the teenagers criticize Guy — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some teenagers criticize Guy.""
+
+A) At least one of the teenagers criticize Guy — and possibly all of them
+B) At least one of the teenagers criticize Guy — but not all of them
+
+Answer with only A or B."
+SOME-012,EN-SOME-012-UB,EN,scalar_implicature,some,upper_bound_QUD,Some teenagers criticize Guy.,At least one of the teenagers criticize Guy — and possibly all of them,At least one of the teenagers criticize Guy — but not all of them,At least one of the teenagers criticize Guy — but not all of them,At least one of the teenagers criticize Guy — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the teenagers criticize Guy?""
+Speaker B: ""Some teenagers criticize Guy.""
+
+A) At least one of the teenagers criticize Guy — but not all of them
+B) At least one of the teenagers criticize Guy — and possibly all of them
+
+Answer with only A or B."
+SOME-012,EN-SOME-012-LB,EN,scalar_implicature,some,lower_bound_QUD,Some teenagers criticize Guy.,At least one of the teenagers criticize Guy — and possibly all of them,At least one of the teenagers criticize Guy — but not all of them,At least one of the teenagers criticize Guy — and possibly all of them,At least one of the teenagers criticize Guy — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the teenagers criticize Guy?""
+Speaker B: ""Some teenagers criticize Guy.""
+
+A) At least one of the teenagers criticize Guy — and possibly all of them
+B) At least one of the teenagers criticize Guy — but not all of them
+
+Answer with only A or B."
+SOME-013,EN-SOME-013-NC,EN,scalar_implicature,some,no_context,Some actresses did react.,At least one of the actresses did react — and possibly all of them,At least one of the actresses did react — but not all of them,At least one of the actresses did react — but not all of them,At least one of the actresses did react — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some actresses did react.""
+
+A) At least one of the actresses did react — but not all of them
+B) At least one of the actresses did react — and possibly all of them
+
+Answer with only A or B."
+SOME-013,EN-SOME-013-UB,EN,scalar_implicature,some,upper_bound_QUD,Some actresses did react.,At least one of the actresses did react — and possibly all of them,At least one of the actresses did react — but not all of them,At least one of the actresses did react — and possibly all of them,At least one of the actresses did react — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the actresses did react?""
+Speaker B: ""Some actresses did react.""
+
+A) At least one of the actresses did react — and possibly all of them
+B) At least one of the actresses did react — but not all of them
+
+Answer with only A or B."
+SOME-013,EN-SOME-013-LB,EN,scalar_implicature,some,lower_bound_QUD,Some actresses did react.,At least one of the actresses did react — and possibly all of them,At least one of the actresses did react — but not all of them,At least one of the actresses did react — but not all of them,At least one of the actresses did react — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the actresses did react?""
+Speaker B: ""Some actresses did react.""
+
+A) At least one of the actresses did react — but not all of them
+B) At least one of the actresses did react — and possibly all of them
+
+Answer with only A or B."
+SOME-014,EN-SOME-014-NC,EN,scalar_implicature,some,no_context,Some customers might play.,At least one of the customers might play — and possibly all of them,At least one of the customers might play — but not all of them,At least one of the customers might play — and possibly all of them,At least one of the customers might play — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some customers might play.""
+
+A) At least one of the customers might play — and possibly all of them
+B) At least one of the customers might play — but not all of them
+
+Answer with only A or B."
+SOME-014,EN-SOME-014-UB,EN,scalar_implicature,some,upper_bound_QUD,Some customers might play.,At least one of the customers might play — and possibly all of them,At least one of the customers might play — but not all of them,At least one of the customers might play — but not all of them,At least one of the customers might play — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the customers might play?""
+Speaker B: ""Some customers might play.""
+
+A) At least one of the customers might play — but not all of them
+B) At least one of the customers might play — and possibly all of them
+
+Answer with only A or B."
+SOME-014,EN-SOME-014-LB,EN,scalar_implicature,some,lower_bound_QUD,Some customers might play.,At least one of the customers might play — and possibly all of them,At least one of the customers might play — but not all of them,At least one of the customers might play — and possibly all of them,At least one of the customers might play — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the customers might play?""
+Speaker B: ""Some customers might play.""
+
+A) At least one of the customers might play — and possibly all of them
+B) At least one of the customers might play — but not all of them
+
+Answer with only A or B."
+SOME-015,EN-SOME-015-NC,EN,scalar_implicature,some,no_context,Some guys were cooking.,At least one of the guys were cooking — and possibly all of them,At least one of the guys were cooking — but not all of them,At least one of the guys were cooking — but not all of them,At least one of the guys were cooking — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some guys were cooking.""
+
+A) At least one of the guys were cooking — but not all of them
+B) At least one of the guys were cooking — and possibly all of them
+
+Answer with only A or B."
+SOME-015,EN-SOME-015-UB,EN,scalar_implicature,some,upper_bound_QUD,Some guys were cooking.,At least one of the guys were cooking — and possibly all of them,At least one of the guys were cooking — but not all of them,At least one of the guys were cooking — and possibly all of them,At least one of the guys were cooking — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the guys were cooking?""
+Speaker B: ""Some guys were cooking.""
+
+A) At least one of the guys were cooking — and possibly all of them
+B) At least one of the guys were cooking — but not all of them
+
+Answer with only A or B."
+SOME-015,EN-SOME-015-LB,EN,scalar_implicature,some,lower_bound_QUD,Some guys were cooking.,At least one of the guys were cooking — and possibly all of them,At least one of the guys were cooking — but not all of them,At least one of the guys were cooking — but not all of them,At least one of the guys were cooking — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the guys were cooking?""
+Speaker B: ""Some guys were cooking.""
+
+A) At least one of the guys were cooking — but not all of them
+B) At least one of the guys were cooking — and possibly all of them
+
+Answer with only A or B."
+SOME-016,EN-SOME-016-NC,EN,scalar_implicature,some,no_context,Some rabbits will leave.,At least one of the rabbits will leave — and possibly all of them,At least one of the rabbits will leave — but not all of them,At least one of the rabbits will leave — and possibly all of them,At least one of the rabbits will leave — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some rabbits will leave.""
+
+A) At least one of the rabbits will leave — and possibly all of them
+B) At least one of the rabbits will leave — but not all of them
+
+Answer with only A or B."
+SOME-016,EN-SOME-016-UB,EN,scalar_implicature,some,upper_bound_QUD,Some rabbits will leave.,At least one of the rabbits will leave — and possibly all of them,At least one of the rabbits will leave — but not all of them,At least one of the rabbits will leave — but not all of them,At least one of the rabbits will leave — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the rabbits will leave?""
+Speaker B: ""Some rabbits will leave.""
+
+A) At least one of the rabbits will leave — but not all of them
+B) At least one of the rabbits will leave — and possibly all of them
+
+Answer with only A or B."
+SOME-016,EN-SOME-016-LB,EN,scalar_implicature,some,lower_bound_QUD,Some rabbits will leave.,At least one of the rabbits will leave — and possibly all of them,At least one of the rabbits will leave — but not all of them,At least one of the rabbits will leave — and possibly all of them,At least one of the rabbits will leave — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the rabbits will leave?""
+Speaker B: ""Some rabbits will leave.""
+
+A) At least one of the rabbits will leave — and possibly all of them
+B) At least one of the rabbits will leave — but not all of them
+
+Answer with only A or B."
+SOME-017,EN-SOME-017-NC,EN,scalar_implicature,some,no_context,Some waiters do reunite.,At least one of the waiters do reunite — and possibly all of them,At least one of the waiters do reunite — but not all of them,At least one of the waiters do reunite — but not all of them,At least one of the waiters do reunite — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some waiters do reunite.""
+
+A) At least one of the waiters do reunite — but not all of them
+B) At least one of the waiters do reunite — and possibly all of them
+
+Answer with only A or B."
+SOME-017,EN-SOME-017-UB,EN,scalar_implicature,some,upper_bound_QUD,Some waiters do reunite.,At least one of the waiters do reunite — and possibly all of them,At least one of the waiters do reunite — but not all of them,At least one of the waiters do reunite — and possibly all of them,At least one of the waiters do reunite — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the waiters do reunite?""
+Speaker B: ""Some waiters do reunite.""
+
+A) At least one of the waiters do reunite — and possibly all of them
+B) At least one of the waiters do reunite — but not all of them
+
+Answer with only A or B."
+SOME-017,EN-SOME-017-LB,EN,scalar_implicature,some,lower_bound_QUD,Some waiters do reunite.,At least one of the waiters do reunite — and possibly all of them,At least one of the waiters do reunite — but not all of them,At least one of the waiters do reunite — but not all of them,At least one of the waiters do reunite — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the waiters do reunite?""
+Speaker B: ""Some waiters do reunite.""
+
+A) At least one of the waiters do reunite — but not all of them
+B) At least one of the waiters do reunite — and possibly all of them
+
+Answer with only A or B."
+SOME-018,EN-SOME-018-NC,EN,scalar_implicature,some,no_context,Some bicycles do roll.,At least one of the bicycles do roll — and possibly all of them,At least one of the bicycles do roll — but not all of them,At least one of the bicycles do roll — and possibly all of them,At least one of the bicycles do roll — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some bicycles do roll.""
+
+A) At least one of the bicycles do roll — and possibly all of them
+B) At least one of the bicycles do roll — but not all of them
+
+Answer with only A or B."
+SOME-018,EN-SOME-018-UB,EN,scalar_implicature,some,upper_bound_QUD,Some bicycles do roll.,At least one of the bicycles do roll — and possibly all of them,At least one of the bicycles do roll — but not all of them,At least one of the bicycles do roll — but not all of them,At least one of the bicycles do roll — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the bicycles do roll?""
+Speaker B: ""Some bicycles do roll.""
+
+A) At least one of the bicycles do roll — but not all of them
+B) At least one of the bicycles do roll — and possibly all of them
+
+Answer with only A or B."
+SOME-018,EN-SOME-018-LB,EN,scalar_implicature,some,lower_bound_QUD,Some bicycles do roll.,At least one of the bicycles do roll — and possibly all of them,At least one of the bicycles do roll — but not all of them,At least one of the bicycles do roll — and possibly all of them,At least one of the bicycles do roll — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the bicycles do roll?""
+Speaker B: ""Some bicycles do roll.""
+
+A) At least one of the bicycles do roll — and possibly all of them
+B) At least one of the bicycles do roll — but not all of them
+
+Answer with only A or B."
+SOME-019,EN-SOME-019-NC,EN,scalar_implicature,some,no_context,Some dancers can chat.,At least one of the dancers can chat — and possibly all of them,At least one of the dancers can chat — but not all of them,At least one of the dancers can chat — but not all of them,At least one of the dancers can chat — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some dancers can chat.""
+
+A) At least one of the dancers can chat — but not all of them
+B) At least one of the dancers can chat — and possibly all of them
+
+Answer with only A or B."
+SOME-019,EN-SOME-019-UB,EN,scalar_implicature,some,upper_bound_QUD,Some dancers can chat.,At least one of the dancers can chat — and possibly all of them,At least one of the dancers can chat — but not all of them,At least one of the dancers can chat — and possibly all of them,At least one of the dancers can chat — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the dancers can chat?""
+Speaker B: ""Some dancers can chat.""
+
+A) At least one of the dancers can chat — and possibly all of them
+B) At least one of the dancers can chat — but not all of them
+
+Answer with only A or B."
+SOME-019,EN-SOME-019-LB,EN,scalar_implicature,some,lower_bound_QUD,Some dancers can chat.,At least one of the dancers can chat — and possibly all of them,At least one of the dancers can chat — but not all of them,At least one of the dancers can chat — but not all of them,At least one of the dancers can chat — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the dancers can chat?""
+Speaker B: ""Some dancers can chat.""
+
+A) At least one of the dancers can chat — but not all of them
+B) At least one of the dancers can chat — and possibly all of them
+
+Answer with only A or B."
+SOME-020,EN-SOME-020-NC,EN,scalar_implicature,some,no_context,Some guys come here.,At least one of the guys come here — and possibly all of them,At least one of the guys come here — but not all of them,At least one of the guys come here — and possibly all of them,At least one of the guys come here — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some guys come here.""
+
+A) At least one of the guys come here — and possibly all of them
+B) At least one of the guys come here — but not all of them
+
+Answer with only A or B."
+SOME-020,EN-SOME-020-UB,EN,scalar_implicature,some,upper_bound_QUD,Some guys come here.,At least one of the guys come here — and possibly all of them,At least one of the guys come here — but not all of them,At least one of the guys come here — but not all of them,At least one of the guys come here — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the guys come here?""
+Speaker B: ""Some guys come here.""
+
+A) At least one of the guys come here — but not all of them
+B) At least one of the guys come here — and possibly all of them
+
+Answer with only A or B."
+SOME-020,EN-SOME-020-LB,EN,scalar_implicature,some,lower_bound_QUD,Some guys come here.,At least one of the guys come here — and possibly all of them,At least one of the guys come here — but not all of them,At least one of the guys come here — and possibly all of them,At least one of the guys come here — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the guys come here?""
+Speaker B: ""Some guys come here.""
+
+A) At least one of the guys come here — and possibly all of them
+B) At least one of the guys come here — but not all of them
+
+Answer with only A or B."
+SOME-021,EN-SOME-021-NC,EN,scalar_implicature,some,no_context,Some cashiers had concealed David.,At least one of the cashiers had concealed David — and possibly all of them,At least one of the cashiers had concealed David — but not all of them,At least one of the cashiers had concealed David — but not all of them,At least one of the cashiers had concealed David — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some cashiers had concealed David.""
+
+A) At least one of the cashiers had concealed David — but not all of them
+B) At least one of the cashiers had concealed David — and possibly all of them
+
+Answer with only A or B."
+SOME-021,EN-SOME-021-UB,EN,scalar_implicature,some,upper_bound_QUD,Some cashiers had concealed David.,At least one of the cashiers had concealed David — and possibly all of them,At least one of the cashiers had concealed David — but not all of them,At least one of the cashiers had concealed David — and possibly all of them,At least one of the cashiers had concealed David — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the cashiers had concealed David?""
+Speaker B: ""Some cashiers had concealed David.""
+
+A) At least one of the cashiers had concealed David — and possibly all of them
+B) At least one of the cashiers had concealed David — but not all of them
+
+Answer with only A or B."
+SOME-021,EN-SOME-021-LB,EN,scalar_implicature,some,lower_bound_QUD,Some cashiers had concealed David.,At least one of the cashiers had concealed David — and possibly all of them,At least one of the cashiers had concealed David — but not all of them,At least one of the cashiers had concealed David — but not all of them,At least one of the cashiers had concealed David — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the cashiers had concealed David?""
+Speaker B: ""Some cashiers had concealed David.""
+
+A) At least one of the cashiers had concealed David — but not all of them
+B) At least one of the cashiers had concealed David — and possibly all of them
+
+Answer with only A or B."
+SOME-022,EN-SOME-022-NC,EN,scalar_implicature,some,no_context,Some screens had tipped over.,At least one of the screens had tipped over — and possibly all of them,At least one of the screens had tipped over — but not all of them,At least one of the screens had tipped over — and possibly all of them,At least one of the screens had tipped over — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some screens had tipped over.""
+
+A) At least one of the screens had tipped over — and possibly all of them
+B) At least one of the screens had tipped over — but not all of them
+
+Answer with only A or B."
+SOME-022,EN-SOME-022-UB,EN,scalar_implicature,some,upper_bound_QUD,Some screens had tipped over.,At least one of the screens had tipped over — and possibly all of them,At least one of the screens had tipped over — but not all of them,At least one of the screens had tipped over — but not all of them,At least one of the screens had tipped over — and possibly all of them,A,pragmatic,True,A,,,,,True,"Speaker A: ""Did all of the screens had tipped over?""
+Speaker B: ""Some screens had tipped over.""
+
+A) At least one of the screens had tipped over — but not all of them
+B) At least one of the screens had tipped over — and possibly all of them
+
+Answer with only A or B."
+SOME-022,EN-SOME-022-LB,EN,scalar_implicature,some,lower_bound_QUD,Some screens had tipped over.,At least one of the screens had tipped over — and possibly all of them,At least one of the screens had tipped over — but not all of them,At least one of the screens had tipped over — and possibly all of them,At least one of the screens had tipped over — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the screens had tipped over?""
+Speaker B: ""Some screens had tipped over.""
+
+A) At least one of the screens had tipped over — and possibly all of them
+B) At least one of the screens had tipped over — but not all of them
+
+Answer with only A or B."
+SOME-023,EN-SOME-023-NC,EN,scalar_implicature,some,no_context,Some guests would wake up.,At least one of the guests would wake up — and possibly all of them,At least one of the guests would wake up — but not all of them,At least one of the guests would wake up — but not all of them,At least one of the guests would wake up — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some guests would wake up.""
+
+A) At least one of the guests would wake up — but not all of them
+B) At least one of the guests would wake up — and possibly all of them
+
+Answer with only A or B."
+SOME-023,EN-SOME-023-UB,EN,scalar_implicature,some,upper_bound_QUD,Some guests would wake up.,At least one of the guests would wake up — and possibly all of them,At least one of the guests would wake up — but not all of them,At least one of the guests would wake up — and possibly all of them,At least one of the guests would wake up — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the guests would wake up?""
+Speaker B: ""Some guests would wake up.""
+
+A) At least one of the guests would wake up — and possibly all of them
+B) At least one of the guests would wake up — but not all of them
+
+Answer with only A or B."
+SOME-023,EN-SOME-023-LB,EN,scalar_implicature,some,lower_bound_QUD,Some guests would wake up.,At least one of the guests would wake up — and possibly all of them,At least one of the guests would wake up — but not all of them,At least one of the guests would wake up — but not all of them,At least one of the guests would wake up — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the guests would wake up?""
+Speaker B: ""Some guests would wake up.""
+
+A) At least one of the guests would wake up — but not all of them
+B) At least one of the guests would wake up — and possibly all of them
+
+Answer with only A or B."
+SOME-024,EN-SOME-024-NC,EN,scalar_implicature,some,no_context,Some horses ascended these stairs.,At least one of the horses ascended these stairs — and possibly all of them,At least one of the horses ascended these stairs — but not all of them,At least one of the horses ascended these stairs — and possibly all of them,At least one of the horses ascended these stairs — but not all of them,B,pragmatic,False,A,,,,,False,"Sentence: ""Some horses ascended these stairs.""
+
+A) At least one of the horses ascended these stairs — and possibly all of them
+B) At least one of the horses ascended these stairs — but not all of them
+
+Answer with only A or B."
+SOME-024,EN-SOME-024-UB,EN,scalar_implicature,some,upper_bound_QUD,Some horses ascended these stairs.,At least one of the horses ascended these stairs — and possibly all of them,At least one of the horses ascended these stairs — but not all of them,At least one of the horses ascended these stairs — but not all of them,At least one of the horses ascended these stairs — and possibly all of them,A,pragmatic,True,B,,,,,False,"Speaker A: ""Did all of the horses ascended these stairs?""
+Speaker B: ""Some horses ascended these stairs.""
+
+A) At least one of the horses ascended these stairs — but not all of them
+B) At least one of the horses ascended these stairs — and possibly all of them
+
+Answer with only A or B."
+SOME-024,EN-SOME-024-LB,EN,scalar_implicature,some,lower_bound_QUD,Some horses ascended these stairs.,At least one of the horses ascended these stairs — and possibly all of them,At least one of the horses ascended these stairs — but not all of them,At least one of the horses ascended these stairs — and possibly all of them,At least one of the horses ascended these stairs — but not all of them,A,literal,False,A,,,,,True,"Speaker A: ""Did any of the horses ascended these stairs?""
+Speaker B: ""Some horses ascended these stairs.""
+
+A) At least one of the horses ascended these stairs — and possibly all of them
+B) At least one of the horses ascended these stairs — but not all of them
+
+Answer with only A or B."
+SOME-025,EN-SOME-025-NC,EN,scalar_implicature,some,no_context,Some reports sounded like Marla.,At least one of the reports sounded like Marla — and possibly all of them,At least one of the reports sounded like Marla — but not all of them,At least one of the reports sounded like Marla — but not all of them,At least one of the reports sounded like Marla — and possibly all of them,A,pragmatic,True,B,,,,,False,"Sentence: ""Some reports sounded like Marla.""
+
+A) At least one of the reports sounded like Marla — but not all of them
+B) At least one of the reports sounded like Marla — and possibly all of them
+
+Answer with only A or B."
+SOME-025,EN-SOME-025-UB,EN,scalar_implicature,some,upper_bound_QUD,Some reports sounded like Marla.,At least one of the reports sounded like Marla — and possibly all of them,At least one of the reports sounded like Marla — but not all of them,At least one of the reports sounded like Marla — and possibly all of them,At least one of the reports sounded like Marla — but not all of them,B,pragmatic,False,A,,,,,False,"Speaker A: ""Did all of the reports sounded like Marla?""
+Speaker B: ""Some reports sounded like Marla.""
+
+A) At least one of the reports sounded like Marla — and possibly all of them
+B) At least one of the reports sounded like Marla — but not all of them
+
+Answer with only A or B."
+SOME-025,EN-SOME-025-LB,EN,scalar_implicature,some,lower_bound_QUD,Some reports sounded like Marla.,At least one of the reports sounded like Marla — and possibly all of them,At least one of the reports sounded like Marla — but not all of them,At least one of the reports sounded like Marla — but not all of them,At least one of the reports sounded like Marla — and possibly all of them,B,literal,True,B,,,,,True,"Speaker A: ""Did any of the reports sounded like Marla?""
+Speaker B: ""Some reports sounded like Marla.""
+
+A) At least one of the reports sounded like Marla — but not all of them
+B) At least one of the reports sounded like Marla — and possibly all of them
+
+Answer with only A or B."
+OR-001,EN-OR-001-NC,EN,scalar_implicature,or,no_context,Women or those drivers had sung.,"Women, those drivers, or possibly both had sung",Women or those drivers — but not both — had sung,Women or those drivers — but not both — had sung,"Women, those drivers, or possibly both had sung",B,literal,True,A,,,,,False,"Sentence: ""Women or those drivers had sung.""
+
+A) Women or those drivers — but not both — had sung
+B) Women, those drivers, or possibly both had sung
+
+Answer with only A or B."
+OR-001,EN-OR-001-EX,EN,scalar_implicature,or,exclusive_context,Women or those drivers had sung.,"Women, those drivers, or possibly both had sung",Women or those drivers — but not both — had sung,"Women, those drivers, or possibly both had sung",Women or those drivers — but not both — had sung,B,pragmatic,False,A,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Women or those drivers had sung.""
+
+A) Women, those drivers, or possibly both had sung
+B) Women or those drivers — but not both — had sung
+
+Answer with only A or B."
+OR-001,EN-OR-001-IN,EN,scalar_implicature,or,inclusive_context,Women or those drivers had sung.,"Women, those drivers, or possibly both had sung",Women or those drivers — but not both — had sung,Women or those drivers — but not both — had sung,"Women, those drivers, or possibly both had sung",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Women or those drivers had sung.""
+
+A) Women or those drivers — but not both — had sung
+B) Women, those drivers, or possibly both had sung
+
+Answer with only A or B."
+OR-002,EN-OR-002-NC,EN,scalar_implicature,or,no_context,Women or these drivers know Scott.,"Women, these drivers, or possibly both know Scott",Women or these drivers — but not both — know Scott,"Women, these drivers, or possibly both know Scott",Women or these drivers — but not both — know Scott,A,literal,False,A,,,,,True,"Sentence: ""Women or these drivers know Scott.""
+
+A) Women, these drivers, or possibly both know Scott
+B) Women or these drivers — but not both — know Scott
+
+Answer with only A or B."
+OR-002,EN-OR-002-EX,EN,scalar_implicature,or,exclusive_context,Women or these drivers know Scott.,"Women, these drivers, or possibly both know Scott",Women or these drivers — but not both — know Scott,Women or these drivers — but not both — know Scott,"Women, these drivers, or possibly both know Scott",A,pragmatic,True,B,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Women or these drivers know Scott.""
+
+A) Women or these drivers — but not both — know Scott
+B) Women, these drivers, or possibly both know Scott
+
+Answer with only A or B."
+OR-002,EN-OR-002-IN,EN,scalar_implicature,or,inclusive_context,Women or these drivers know Scott.,"Women, these drivers, or possibly both know Scott",Women or these drivers — but not both — know Scott,"Women, these drivers, or possibly both know Scott",Women or these drivers — but not both — know Scott,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Women or these drivers know Scott.""
+
+A) Women, these drivers, or possibly both know Scott
+B) Women or these drivers — but not both — know Scott
+
+Answer with only A or B."
+OR-003,EN-OR-003-NC,EN,scalar_implicature,or,no_context,The doctors or these people practiced.,"The doctors, these people, or possibly both practiced",The doctors or these people — but not both — practiced,The doctors or these people — but not both — practiced,"The doctors, these people, or possibly both practiced",B,literal,True,A,,,,,False,"Sentence: ""The doctors or these people practiced.""
+
+A) The doctors or these people — but not both — practiced
+B) The doctors, these people, or possibly both practiced
+
+Answer with only A or B."
+OR-003,EN-OR-003-EX,EN,scalar_implicature,or,exclusive_context,The doctors or these people practiced.,"The doctors, these people, or possibly both practiced",The doctors or these people — but not both — practiced,"The doctors, these people, or possibly both practiced",The doctors or these people — but not both — practiced,B,pragmatic,False,A,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""The doctors or these people practiced.""
+
+A) The doctors, these people, or possibly both practiced
+B) The doctors or these people — but not both — practiced
+
+Answer with only A or B."
+OR-003,EN-OR-003-IN,EN,scalar_implicature,or,inclusive_context,The doctors or these people practiced.,"The doctors, these people, or possibly both practiced",The doctors or these people — but not both — practiced,The doctors or these people — but not both — practiced,"The doctors, these people, or possibly both practiced",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""The doctors or these people practiced.""
+
+A) The doctors or these people — but not both — practiced
+B) The doctors, these people, or possibly both practiced
+
+Answer with only A or B."
+OR-004,EN-OR-004-NC,EN,scalar_implicature,or,no_context,These teachers or the children were cooperating.,"These teachers, the children, or possibly both were cooperating",These teachers or the children — but not both — were cooperating,"These teachers, the children, or possibly both were cooperating",These teachers or the children — but not both — were cooperating,A,literal,False,A,,,,,True,"Sentence: ""These teachers or the children were cooperating.""
+
+A) These teachers, the children, or possibly both were cooperating
+B) These teachers or the children — but not both — were cooperating
+
+Answer with only A or B."
+OR-004,EN-OR-004-EX,EN,scalar_implicature,or,exclusive_context,These teachers or the children were cooperating.,"These teachers, the children, or possibly both were cooperating",These teachers or the children — but not both — were cooperating,These teachers or the children — but not both — were cooperating,"These teachers, the children, or possibly both were cooperating",A,pragmatic,True,B,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""These teachers or the children were cooperating.""
+
+A) These teachers or the children — but not both — were cooperating
+B) These teachers, the children, or possibly both were cooperating
+
+Answer with only A or B."
+OR-004,EN-OR-004-IN,EN,scalar_implicature,or,inclusive_context,These teachers or the children were cooperating.,"These teachers, the children, or possibly both were cooperating",These teachers or the children — but not both — were cooperating,"These teachers, the children, or possibly both were cooperating",These teachers or the children — but not both — were cooperating,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""These teachers or the children were cooperating.""
+
+A) These teachers, the children, or possibly both were cooperating
+B) These teachers or the children — but not both — were cooperating
+
+Answer with only A or B."
+OR-005,EN-OR-005-NC,EN,scalar_implicature,or,no_context,Those patients or the people are interacting.,"Those patients, the people, or possibly both are interacting",Those patients or the people — but not both — are interacting,Those patients or the people — but not both — are interacting,"Those patients, the people, or possibly both are interacting",B,literal,True,B,,,,,True,"Sentence: ""Those patients or the people are interacting.""
+
+A) Those patients or the people — but not both — are interacting
+B) Those patients, the people, or possibly both are interacting
+
+Answer with only A or B."
+OR-005,EN-OR-005-EX,EN,scalar_implicature,or,exclusive_context,Those patients or the people are interacting.,"Those patients, the people, or possibly both are interacting",Those patients or the people — but not both — are interacting,"Those patients, the people, or possibly both are interacting",Those patients or the people — but not both — are interacting,B,pragmatic,False,B,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Those patients or the people are interacting.""
+
+A) Those patients, the people, or possibly both are interacting
+B) Those patients or the people — but not both — are interacting
+
+Answer with only A or B."
+OR-005,EN-OR-005-IN,EN,scalar_implicature,or,inclusive_context,Those patients or the people are interacting.,"Those patients, the people, or possibly both are interacting",Those patients or the people — but not both — are interacting,Those patients or the people — but not both — are interacting,"Those patients, the people, or possibly both are interacting",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Those patients or the people are interacting.""
+
+A) Those patients or the people — but not both — are interacting
+B) Those patients, the people, or possibly both are interacting
+
+Answer with only A or B."
+OR-006,EN-OR-006-NC,EN,scalar_implicature,or,no_context,The adults or these women were hiding away.,"The adults, these women, or possibly both were hiding away",The adults or these women — but not both — were hiding away,"The adults, these women, or possibly both were hiding away",The adults or these women — but not both — were hiding away,A,literal,False,A,,,,,True,"Sentence: ""The adults or these women were hiding away.""
+
+A) The adults, these women, or possibly both were hiding away
+B) The adults or these women — but not both — were hiding away
+
+Answer with only A or B."
+OR-006,EN-OR-006-EX,EN,scalar_implicature,or,exclusive_context,The adults or these women were hiding away.,"The adults, these women, or possibly both were hiding away",The adults or these women — but not both — were hiding away,The adults or these women — but not both — were hiding away,"The adults, these women, or possibly both were hiding away",A,pragmatic,True,A,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""The adults or these women were hiding away.""
+
+A) The adults or these women — but not both — were hiding away
+B) The adults, these women, or possibly both were hiding away
+
+Answer with only A or B."
+OR-006,EN-OR-006-IN,EN,scalar_implicature,or,inclusive_context,The adults or these women were hiding away.,"The adults, these women, or possibly both were hiding away",The adults or these women — but not both — were hiding away,"The adults, these women, or possibly both were hiding away",The adults or these women — but not both — were hiding away,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""The adults or these women were hiding away.""
+
+A) The adults, these women, or possibly both were hiding away
+B) The adults or these women — but not both — were hiding away
+
+Answer with only A or B."
+OR-007,EN-OR-007-NC,EN,scalar_implicature,or,no_context,The Impressionists or these women did cure Amy.,"The Impressionists, these women, or possibly both cured Amy",The Impressionists or these women — but not both — cured Amy,The Impressionists or these women — but not both — cured Amy,"The Impressionists, these women, or possibly both cured Amy",B,literal,True,B,,,,,True,"Sentence: ""The Impressionists or these women did cure Amy.""
+
+A) The Impressionists or these women — but not both — cured Amy
+B) The Impressionists, these women, or possibly both cured Amy
+
+Answer with only A or B."
+OR-007,EN-OR-007-EX,EN,scalar_implicature,or,exclusive_context,The Impressionists or these women did cure Amy.,"The Impressionists, these women, or possibly both cured Amy",The Impressionists or these women — but not both — cured Amy,"The Impressionists, these women, or possibly both cured Amy",The Impressionists or these women — but not both — cured Amy,B,pragmatic,False,A,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""The Impressionists or these women did cure Amy.""
+
+A) The Impressionists, these women, or possibly both cured Amy
+B) The Impressionists or these women — but not both — cured Amy
+
+Answer with only A or B."
+OR-007,EN-OR-007-IN,EN,scalar_implicature,or,inclusive_context,The Impressionists or these women did cure Amy.,"The Impressionists, these women, or possibly both cured Amy",The Impressionists or these women — but not both — cured Amy,The Impressionists or these women — but not both — cured Amy,"The Impressionists, these women, or possibly both cured Amy",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""The Impressionists or these women did cure Amy.""
+
+A) The Impressionists or these women — but not both — cured Amy
+B) The Impressionists, these women, or possibly both cured Amy
+
+Answer with only A or B."
+OR-008,EN-OR-008-NC,EN,scalar_implicature,or,no_context,Those senators or those women neglect to spin around.,"Those senators, those women, or possibly both neglect to spin around",Those senators or those women — but not both — neglect to spin around,"Those senators, those women, or possibly both neglect to spin around",Those senators or those women — but not both — neglect to spin around,A,literal,False,A,,,,,True,"Sentence: ""Those senators or those women neglect to spin around.""
+
+A) Those senators, those women, or possibly both neglect to spin around
+B) Those senators or those women — but not both — neglect to spin around
+
+Answer with only A or B."
+OR-008,EN-OR-008-EX,EN,scalar_implicature,or,exclusive_context,Those senators or those women neglect to spin around.,"Those senators, those women, or possibly both neglect to spin around",Those senators or those women — but not both — neglect to spin around,Those senators or those women — but not both — neglect to spin around,"Those senators, those women, or possibly both neglect to spin around",A,pragmatic,True,A,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Those senators or those women neglect to spin around.""
+
+A) Those senators or those women — but not both — neglect to spin around
+B) Those senators, those women, or possibly both neglect to spin around
+
+Answer with only A or B."
+OR-008,EN-OR-008-IN,EN,scalar_implicature,or,inclusive_context,Those senators or those women neglect to spin around.,"Those senators, those women, or possibly both neglect to spin around",Those senators or those women — but not both — neglect to spin around,"Those senators, those women, or possibly both neglect to spin around",Those senators or those women — but not both — neglect to spin around,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Those senators or those women neglect to spin around.""
+
+A) Those senators, those women, or possibly both neglect to spin around
+B) Those senators or those women — but not both — neglect to spin around
+
+Answer with only A or B."
+OR-009,EN-OR-009-NC,EN,scalar_implicature,or,no_context,These women or these customers are dropping by the Great Lakes.,"These women, these customers, or possibly both are dropping by the Great Lakes",These women or these customers — but not both — are dropping by the Great Lakes,These women or these customers — but not both — are dropping by the Great Lakes,"These women, these customers, or possibly both are dropping by the Great Lakes",B,literal,True,B,,,,,True,"Sentence: ""These women or these customers are dropping by the Great Lakes.""
+
+A) These women or these customers — but not both — are dropping by the Great Lakes
+B) These women, these customers, or possibly both are dropping by the Great Lakes
+
+Answer with only A or B."
+OR-009,EN-OR-009-EX,EN,scalar_implicature,or,exclusive_context,These women or these customers are dropping by the Great Lakes.,"These women, these customers, or possibly both are dropping by the Great Lakes",These women or these customers — but not both — are dropping by the Great Lakes,"These women, these customers, or possibly both are dropping by the Great Lakes",These women or these customers — but not both — are dropping by the Great Lakes,B,pragmatic,False,B,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""These women or these customers are dropping by the Great Lakes.""
+
+A) These women, these customers, or possibly both are dropping by the Great Lakes
+B) These women or these customers — but not both — are dropping by the Great Lakes
+
+Answer with only A or B."
+OR-009,EN-OR-009-IN,EN,scalar_implicature,or,inclusive_context,These women or these customers are dropping by the Great Lakes.,"These women, these customers, or possibly both are dropping by the Great Lakes",These women or these customers — but not both — are dropping by the Great Lakes,These women or these customers — but not both — are dropping by the Great Lakes,"These women, these customers, or possibly both are dropping by the Great Lakes",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""These women or these customers are dropping by the Great Lakes.""
+
+A) These women or these customers — but not both — are dropping by the Great Lakes
+B) These women, these customers, or possibly both are dropping by the Great Lakes
+
+Answer with only A or B."
+OR-010,EN-OR-010-NC,EN,scalar_implicature,or,no_context,Governments or these banks have compelled all doctors to speak up.,"Governments, these banks, or possibly both have compelled doctors to speak up",Governments or these banks — but not both — have compelled doctors to speak up,"Governments, these banks, or possibly both have compelled doctors to speak up",Governments or these banks — but not both — have compelled doctors to speak up,A,literal,False,A,,,,,True,"Sentence: ""Governments or these banks have compelled all doctors to speak up.""
+
+A) Governments, these banks, or possibly both have compelled doctors to speak up
+B) Governments or these banks — but not both — have compelled doctors to speak up
+
+Answer with only A or B."
+OR-010,EN-OR-010-EX,EN,scalar_implicature,or,exclusive_context,Governments or these banks have compelled all doctors to speak up.,"Governments, these banks, or possibly both have compelled doctors to speak up",Governments or these banks — but not both — have compelled doctors to speak up,Governments or these banks — but not both — have compelled doctors to speak up,"Governments, these banks, or possibly both have compelled doctors to speak up",A,pragmatic,True,A,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Governments or these banks have compelled all doctors to speak up.""
+
+A) Governments or these banks — but not both — have compelled doctors to speak up
+B) Governments, these banks, or possibly both have compelled doctors to speak up
+
+Answer with only A or B."
+OR-010,EN-OR-010-IN,EN,scalar_implicature,or,inclusive_context,Governments or these banks have compelled all doctors to speak up.,"Governments, these banks, or possibly both have compelled doctors to speak up",Governments or these banks — but not both — have compelled doctors to speak up,"Governments, these banks, or possibly both have compelled doctors to speak up",Governments or these banks — but not both — have compelled doctors to speak up,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Governments or these banks have compelled all doctors to speak up.""
+
+A) Governments, these banks, or possibly both have compelled doctors to speak up
+B) Governments or these banks — but not both — have compelled doctors to speak up
+
+Answer with only A or B."
+OR-011,EN-OR-011-NC,EN,scalar_implicature,or,no_context,Guys or those doctors drink.,"Guys, those doctors, or possibly both drink",Guys or those doctors — but not both — drink,Guys or those doctors — but not both — drink,"Guys, those doctors, or possibly both drink",B,literal,True,B,,,,,True,"Sentence: ""Guys or those doctors drink.""
+
+A) Guys or those doctors — but not both — drink
+B) Guys, those doctors, or possibly both drink
+
+Answer with only A or B."
+OR-011,EN-OR-011-EX,EN,scalar_implicature,or,exclusive_context,Guys or those doctors drink.,"Guys, those doctors, or possibly both drink",Guys or those doctors — but not both — drink,"Guys, those doctors, or possibly both drink",Guys or those doctors — but not both — drink,B,pragmatic,False,A,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Guys or those doctors drink.""
+
+A) Guys, those doctors, or possibly both drink
+B) Guys or those doctors — but not both — drink
+
+Answer with only A or B."
+OR-011,EN-OR-011-IN,EN,scalar_implicature,or,inclusive_context,Guys or those doctors drink.,"Guys, those doctors, or possibly both drink",Guys or those doctors — but not both — drink,Guys or those doctors — but not both — drink,"Guys, those doctors, or possibly both drink",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Guys or those doctors drink.""
+
+A) Guys or those doctors — but not both — drink
+B) Guys, those doctors, or possibly both drink
+
+Answer with only A or B."
+OR-012,EN-OR-012-NC,EN,scalar_implicature,or,no_context,People or these pedestrians sneezed.,"People, these pedestrians, or possibly both sneezed",People or these pedestrians — but not both — sneezed,"People, these pedestrians, or possibly both sneezed",People or these pedestrians — but not both — sneezed,A,literal,False,A,,,,,True,"Sentence: ""People or these pedestrians sneezed.""
+
+A) People, these pedestrians, or possibly both sneezed
+B) People or these pedestrians — but not both — sneezed
+
+Answer with only A or B."
+OR-012,EN-OR-012-EX,EN,scalar_implicature,or,exclusive_context,People or these pedestrians sneezed.,"People, these pedestrians, or possibly both sneezed",People or these pedestrians — but not both — sneezed,People or these pedestrians — but not both — sneezed,"People, these pedestrians, or possibly both sneezed",A,pragmatic,True,A,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""People or these pedestrians sneezed.""
+
+A) People or these pedestrians — but not both — sneezed
+B) People, these pedestrians, or possibly both sneezed
+
+Answer with only A or B."
+OR-012,EN-OR-012-IN,EN,scalar_implicature,or,inclusive_context,People or these pedestrians sneezed.,"People, these pedestrians, or possibly both sneezed",People or these pedestrians — but not both — sneezed,"People, these pedestrians, or possibly both sneezed",People or these pedestrians — but not both — sneezed,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""People or these pedestrians sneezed.""
+
+A) People, these pedestrians, or possibly both sneezed
+B) People or these pedestrians — but not both — sneezed
+
+Answer with only A or B."
+OR-013,EN-OR-013-NC,EN,scalar_implicature,or,no_context,Children or those adults can scratch.,"Children, those adults, or possibly both can scratch",Children or those adults — but not both — can scratch,Children or those adults — but not both — can scratch,"Children, those adults, or possibly both can scratch",B,literal,True,B,,,,,True,"Sentence: ""Children or those adults can scratch.""
+
+A) Children or those adults — but not both — can scratch
+B) Children, those adults, or possibly both can scratch
+
+Answer with only A or B."
+OR-013,EN-OR-013-EX,EN,scalar_implicature,or,exclusive_context,Children or those adults can scratch.,"Children, those adults, or possibly both can scratch",Children or those adults — but not both — can scratch,"Children, those adults, or possibly both can scratch",Children or those adults — but not both — can scratch,B,pragmatic,False,A,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Children or those adults can scratch.""
+
+A) Children, those adults, or possibly both can scratch
+B) Children or those adults — but not both — can scratch
+
+Answer with only A or B."
+OR-013,EN-OR-013-IN,EN,scalar_implicature,or,inclusive_context,Children or those adults can scratch.,"Children, those adults, or possibly both can scratch",Children or those adults — but not both — can scratch,Children or those adults — but not both — can scratch,"Children, those adults, or possibly both can scratch",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Children or those adults can scratch.""
+
+A) Children or those adults — but not both — can scratch
+B) Children, those adults, or possibly both can scratch
+
+Answer with only A or B."
+OR-014,EN-OR-014-NC,EN,scalar_implicature,or,no_context,These libraries or these governments collaborate.,"These libraries, these governments, or possibly both collaborate",These libraries or these governments — but not both — collaborate,"These libraries, these governments, or possibly both collaborate",These libraries or these governments — but not both — collaborate,A,literal,False,A,,,,,True,"Sentence: ""These libraries or these governments collaborate.""
+
+A) These libraries, these governments, or possibly both collaborate
+B) These libraries or these governments — but not both — collaborate
+
+Answer with only A or B."
+OR-014,EN-OR-014-EX,EN,scalar_implicature,or,exclusive_context,These libraries or these governments collaborate.,"These libraries, these governments, or possibly both collaborate",These libraries or these governments — but not both — collaborate,These libraries or these governments — but not both — collaborate,"These libraries, these governments, or possibly both collaborate",A,pragmatic,True,A,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""These libraries or these governments collaborate.""
+
+A) These libraries or these governments — but not both — collaborate
+B) These libraries, these governments, or possibly both collaborate
+
+Answer with only A or B."
+OR-014,EN-OR-014-IN,EN,scalar_implicature,or,inclusive_context,These libraries or these governments collaborate.,"These libraries, these governments, or possibly both collaborate",These libraries or these governments — but not both — collaborate,"These libraries, these governments, or possibly both collaborate",These libraries or these governments — but not both — collaborate,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""These libraries or these governments collaborate.""
+
+A) These libraries, these governments, or possibly both collaborate
+B) These libraries or these governments — but not both — collaborate
+
+Answer with only A or B."
+OR-015,EN-OR-015-NC,EN,scalar_implicature,or,no_context,Teachers or these actors have suffered.,"Teachers, these actors, or possibly both have suffered",Teachers or these actors — but not both — have suffered,Teachers or these actors — but not both — have suffered,"Teachers, these actors, or possibly both have suffered",B,literal,True,B,,,,,True,"Sentence: ""Teachers or these actors have suffered.""
+
+A) Teachers or these actors — but not both — have suffered
+B) Teachers, these actors, or possibly both have suffered
+
+Answer with only A or B."
+OR-015,EN-OR-015-EX,EN,scalar_implicature,or,exclusive_context,Teachers or these actors have suffered.,"Teachers, these actors, or possibly both have suffered",Teachers or these actors — but not both — have suffered,"Teachers, these actors, or possibly both have suffered",Teachers or these actors — but not both — have suffered,B,pragmatic,False,A,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Teachers or these actors have suffered.""
+
+A) Teachers, these actors, or possibly both have suffered
+B) Teachers or these actors — but not both — have suffered
+
+Answer with only A or B."
+OR-015,EN-OR-015-IN,EN,scalar_implicature,or,inclusive_context,Teachers or these actors have suffered.,"Teachers, these actors, or possibly both have suffered",Teachers or these actors — but not both — have suffered,Teachers or these actors — but not both — have suffered,"Teachers, these actors, or possibly both have suffered",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Teachers or these actors have suffered.""
+
+A) Teachers or these actors — but not both — have suffered
+B) Teachers, these actors, or possibly both have suffered
+
+Answer with only A or B."
+OR-016,EN-OR-016-NC,EN,scalar_implicature,or,no_context,These ladies or doctors watch Melissa.,"These ladies, doctors, or possibly both watch Melissa",These ladies or doctors — but not both — watch Melissa,"These ladies, doctors, or possibly both watch Melissa",These ladies or doctors — but not both — watch Melissa,A,literal,False,A,,,,,True,"Sentence: ""These ladies or doctors watch Melissa.""
+
+A) These ladies, doctors, or possibly both watch Melissa
+B) These ladies or doctors — but not both — watch Melissa
+
+Answer with only A or B."
+OR-016,EN-OR-016-EX,EN,scalar_implicature,or,exclusive_context,These ladies or doctors watch Melissa.,"These ladies, doctors, or possibly both watch Melissa",These ladies or doctors — but not both — watch Melissa,These ladies or doctors — but not both — watch Melissa,"These ladies, doctors, or possibly both watch Melissa",A,pragmatic,True,A,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""These ladies or doctors watch Melissa.""
+
+A) These ladies or doctors — but not both — watch Melissa
+B) These ladies, doctors, or possibly both watch Melissa
+
+Answer with only A or B."
+OR-016,EN-OR-016-IN,EN,scalar_implicature,or,inclusive_context,These ladies or doctors watch Melissa.,"These ladies, doctors, or possibly both watch Melissa",These ladies or doctors — but not both — watch Melissa,"These ladies, doctors, or possibly both watch Melissa",These ladies or doctors — but not both — watch Melissa,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""These ladies or doctors watch Melissa.""
+
+A) These ladies, doctors, or possibly both watch Melissa
+B) These ladies or doctors — but not both — watch Melissa
+
+Answer with only A or B."
+OR-017,EN-OR-017-NC,EN,scalar_implicature,or,no_context,Those guys or students hated Jennifer.,"Those guys, students, or possibly both hated Jennifer",Those guys or students — but not both — hated Jennifer,Those guys or students — but not both — hated Jennifer,"Those guys, students, or possibly both hated Jennifer",B,literal,True,B,,,,,True,"Sentence: ""Those guys or students hated Jennifer.""
+
+A) Those guys or students — but not both — hated Jennifer
+B) Those guys, students, or possibly both hated Jennifer
+
+Answer with only A or B."
+OR-017,EN-OR-017-EX,EN,scalar_implicature,or,exclusive_context,Those guys or students hated Jennifer.,"Those guys, students, or possibly both hated Jennifer",Those guys or students — but not both — hated Jennifer,"Those guys, students, or possibly both hated Jennifer",Those guys or students — but not both — hated Jennifer,B,pragmatic,False,A,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Those guys or students hated Jennifer.""
+
+A) Those guys, students, or possibly both hated Jennifer
+B) Those guys or students — but not both — hated Jennifer
+
+Answer with only A or B."
+OR-017,EN-OR-017-IN,EN,scalar_implicature,or,inclusive_context,Those guys or students hated Jennifer.,"Those guys, students, or possibly both hated Jennifer",Those guys or students — but not both — hated Jennifer,Those guys or students — but not both — hated Jennifer,"Those guys, students, or possibly both hated Jennifer",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Those guys or students hated Jennifer.""
+
+A) Those guys or students — but not both — hated Jennifer
+B) Those guys, students, or possibly both hated Jennifer
+
+Answer with only A or B."
+OR-018,EN-OR-018-NC,EN,scalar_implicature,or,no_context,Those doctors or the Lutherans were struggling.,"Those doctors, the Lutherans, or possibly both were struggling",Those doctors or the Lutherans — but not both — were struggling,"Those doctors, the Lutherans, or possibly both were struggling",Those doctors or the Lutherans — but not both — were struggling,A,literal,False,A,,,,,True,"Sentence: ""Those doctors or the Lutherans were struggling.""
+
+A) Those doctors, the Lutherans, or possibly both were struggling
+B) Those doctors or the Lutherans — but not both — were struggling
+
+Answer with only A or B."
+OR-018,EN-OR-018-EX,EN,scalar_implicature,or,exclusive_context,Those doctors or the Lutherans were struggling.,"Those doctors, the Lutherans, or possibly both were struggling",Those doctors or the Lutherans — but not both — were struggling,Those doctors or the Lutherans — but not both — were struggling,"Those doctors, the Lutherans, or possibly both were struggling",A,pragmatic,True,A,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Those doctors or the Lutherans were struggling.""
+
+A) Those doctors or the Lutherans — but not both — were struggling
+B) Those doctors, the Lutherans, or possibly both were struggling
+
+Answer with only A or B."
+OR-018,EN-OR-018-IN,EN,scalar_implicature,or,inclusive_context,Those doctors or the Lutherans were struggling.,"Those doctors, the Lutherans, or possibly both were struggling",Those doctors or the Lutherans — but not both — were struggling,"Those doctors, the Lutherans, or possibly both were struggling",Those doctors or the Lutherans — but not both — were struggling,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Those doctors or the Lutherans were struggling.""
+
+A) Those doctors, the Lutherans, or possibly both were struggling
+B) Those doctors or the Lutherans — but not both — were struggling
+
+Answer with only A or B."
+OR-019,EN-OR-019-NC,EN,scalar_implicature,or,no_context,These senators or those men spun around.,"These senators, those men, or possibly both spun around",These senators or those men — but not both — spun around,These senators or those men — but not both — spun around,"These senators, those men, or possibly both spun around",B,literal,True,B,,,,,True,"Sentence: ""These senators or those men spun around.""
+
+A) These senators or those men — but not both — spun around
+B) These senators, those men, or possibly both spun around
+
+Answer with only A or B."
+OR-019,EN-OR-019-EX,EN,scalar_implicature,or,exclusive_context,These senators or those men spun around.,"These senators, those men, or possibly both spun around",These senators or those men — but not both — spun around,"These senators, those men, or possibly both spun around",These senators or those men — but not both — spun around,B,pragmatic,False,B,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""These senators or those men spun around.""
+
+A) These senators, those men, or possibly both spun around
+B) These senators or those men — but not both — spun around
+
+Answer with only A or B."
+OR-019,EN-OR-019-IN,EN,scalar_implicature,or,inclusive_context,These senators or those men spun around.,"These senators, those men, or possibly both spun around",These senators or those men — but not both — spun around,These senators or those men — but not both — spun around,"These senators, those men, or possibly both spun around",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""These senators or those men spun around.""
+
+A) These senators or those men — but not both — spun around
+B) These senators, those men, or possibly both spun around
+
+Answer with only A or B."
+OR-020,EN-OR-020-NC,EN,scalar_implicature,or,no_context,Those actresses or the patients criticized Timothy.,"Those actresses, the patients, or possibly both criticized Timothy",Those actresses or the patients — but not both — criticized Timothy,"Those actresses, the patients, or possibly both criticized Timothy",Those actresses or the patients — but not both — criticized Timothy,A,literal,False,A,,,,,True,"Sentence: ""Those actresses or the patients criticized Timothy.""
+
+A) Those actresses, the patients, or possibly both criticized Timothy
+B) Those actresses or the patients — but not both — criticized Timothy
+
+Answer with only A or B."
+OR-020,EN-OR-020-EX,EN,scalar_implicature,or,exclusive_context,Those actresses or the patients criticized Timothy.,"Those actresses, the patients, or possibly both criticized Timothy",Those actresses or the patients — but not both — criticized Timothy,Those actresses or the patients — but not both — criticized Timothy,"Those actresses, the patients, or possibly both criticized Timothy",A,pragmatic,True,A,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Those actresses or the patients criticized Timothy.""
+
+A) Those actresses or the patients — but not both — criticized Timothy
+B) Those actresses, the patients, or possibly both criticized Timothy
+
+Answer with only A or B."
+OR-020,EN-OR-020-IN,EN,scalar_implicature,or,inclusive_context,Those actresses or the patients criticized Timothy.,"Those actresses, the patients, or possibly both criticized Timothy",Those actresses or the patients — but not both — criticized Timothy,"Those actresses, the patients, or possibly both criticized Timothy",Those actresses or the patients — but not both — criticized Timothy,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Those actresses or the patients criticized Timothy.""
+
+A) Those actresses, the patients, or possibly both criticized Timothy
+B) Those actresses or the patients — but not both — criticized Timothy
+
+Answer with only A or B."
+OR-021,EN-OR-021-NC,EN,scalar_implicature,or,no_context,Those adults or the teachers were whispering.,"Those adults, the teachers, or possibly both were whispering",Those adults or the teachers — but not both — were whispering,Those adults or the teachers — but not both — were whispering,"Those adults, the teachers, or possibly both were whispering",B,literal,True,B,,,,,True,"Sentence: ""Those adults or the teachers were whispering.""
+
+A) Those adults or the teachers — but not both — were whispering
+B) Those adults, the teachers, or possibly both were whispering
+
+Answer with only A or B."
+OR-021,EN-OR-021-EX,EN,scalar_implicature,or,exclusive_context,Those adults or the teachers were whispering.,"Those adults, the teachers, or possibly both were whispering",Those adults or the teachers — but not both — were whispering,"Those adults, the teachers, or possibly both were whispering",Those adults or the teachers — but not both — were whispering,B,pragmatic,False,A,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Those adults or the teachers were whispering.""
+
+A) Those adults, the teachers, or possibly both were whispering
+B) Those adults or the teachers — but not both — were whispering
+
+Answer with only A or B."
+OR-021,EN-OR-021-IN,EN,scalar_implicature,or,inclusive_context,Those adults or the teachers were whispering.,"Those adults, the teachers, or possibly both were whispering",Those adults or the teachers — but not both — were whispering,Those adults or the teachers — but not both — were whispering,"Those adults, the teachers, or possibly both were whispering",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Those adults or the teachers were whispering.""
+
+A) Those adults or the teachers — but not both — were whispering
+B) Those adults, the teachers, or possibly both were whispering
+
+Answer with only A or B."
+OR-022,EN-OR-022-NC,EN,scalar_implicature,or,no_context,The actors or these children disagree with senators.,"The actors, these children, or possibly both disagree with senators",The actors or these children — but not both — disagree with senators,"The actors, these children, or possibly both disagree with senators",The actors or these children — but not both — disagree with senators,A,literal,False,A,,,,,True,"Sentence: ""The actors or these children disagree with senators.""
+
+A) The actors, these children, or possibly both disagree with senators
+B) The actors or these children — but not both — disagree with senators
+
+Answer with only A or B."
+OR-022,EN-OR-022-EX,EN,scalar_implicature,or,exclusive_context,The actors or these children disagree with senators.,"The actors, these children, or possibly both disagree with senators",The actors or these children — but not both — disagree with senators,The actors or these children — but not both — disagree with senators,"The actors, these children, or possibly both disagree with senators",A,pragmatic,True,B,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""The actors or these children disagree with senators.""
+
+A) The actors or these children — but not both — disagree with senators
+B) The actors, these children, or possibly both disagree with senators
+
+Answer with only A or B."
+OR-022,EN-OR-022-IN,EN,scalar_implicature,or,inclusive_context,The actors or these children disagree with senators.,"The actors, these children, or possibly both disagree with senators",The actors or these children — but not both — disagree with senators,"The actors, these children, or possibly both disagree with senators",The actors or these children — but not both — disagree with senators,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""The actors or these children disagree with senators.""
+
+A) The actors, these children, or possibly both disagree with senators
+B) The actors or these children — but not both — disagree with senators
+
+Answer with only A or B."
+OR-023,EN-OR-023-NC,EN,scalar_implicature,or,no_context,The boys or doctors were descending a mountain.,"The boys, doctors, or possibly both were descending a mountain",The boys or doctors — but not both — were descending a mountain,The boys or doctors — but not both — were descending a mountain,"The boys, doctors, or possibly both were descending a mountain",B,literal,True,B,,,,,True,"Sentence: ""The boys or doctors were descending a mountain.""
+
+A) The boys or doctors — but not both — were descending a mountain
+B) The boys, doctors, or possibly both were descending a mountain
+
+Answer with only A or B."
+OR-023,EN-OR-023-EX,EN,scalar_implicature,or,exclusive_context,The boys or doctors were descending a mountain.,"The boys, doctors, or possibly both were descending a mountain",The boys or doctors — but not both — were descending a mountain,"The boys, doctors, or possibly both were descending a mountain",The boys or doctors — but not both — were descending a mountain,B,pragmatic,False,A,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""The boys or doctors were descending a mountain.""
+
+A) The boys, doctors, or possibly both were descending a mountain
+B) The boys or doctors — but not both — were descending a mountain
+
+Answer with only A or B."
+OR-023,EN-OR-023-IN,EN,scalar_implicature,or,inclusive_context,The boys or doctors were descending a mountain.,"The boys, doctors, or possibly both were descending a mountain",The boys or doctors — but not both — were descending a mountain,The boys or doctors — but not both — were descending a mountain,"The boys, doctors, or possibly both were descending a mountain",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""The boys or doctors were descending a mountain.""
+
+A) The boys or doctors — but not both — were descending a mountain
+B) The boys, doctors, or possibly both were descending a mountain
+
+Answer with only A or B."
+OR-024,EN-OR-024-NC,EN,scalar_implicature,or,no_context,Those children or adults pressure Randolf to leave Monet.,"Those children, adults, or possibly both pressure Randolf to leave",Those children or adults — but not both — pressure Randolf to leave,"Those children, adults, or possibly both pressure Randolf to leave",Those children or adults — but not both — pressure Randolf to leave,A,literal,False,A,,,,,True,"Sentence: ""Those children or adults pressure Randolf to leave Monet.""
+
+A) Those children, adults, or possibly both pressure Randolf to leave
+B) Those children or adults — but not both — pressure Randolf to leave
+
+Answer with only A or B."
+OR-024,EN-OR-024-EX,EN,scalar_implicature,or,exclusive_context,Those children or adults pressure Randolf to leave Monet.,"Those children, adults, or possibly both pressure Randolf to leave",Those children or adults — but not both — pressure Randolf to leave,Those children or adults — but not both — pressure Randolf to leave,"Those children, adults, or possibly both pressure Randolf to leave",A,pragmatic,True,B,,,,,False,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Those children or adults pressure Randolf to leave Monet.""
+
+A) Those children or adults — but not both — pressure Randolf to leave
+B) Those children, adults, or possibly both pressure Randolf to leave
+
+Answer with only A or B."
+OR-024,EN-OR-024-IN,EN,scalar_implicature,or,inclusive_context,Those children or adults pressure Randolf to leave Monet.,"Those children, adults, or possibly both pressure Randolf to leave",Those children or adults — but not both — pressure Randolf to leave,"Those children, adults, or possibly both pressure Randolf to leave",Those children or adults — but not both — pressure Randolf to leave,A,literal,False,A,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Those children or adults pressure Randolf to leave Monet.""
+
+A) Those children, adults, or possibly both pressure Randolf to leave
+B) Those children or adults — but not both — pressure Randolf to leave
+
+Answer with only A or B."
+OR-025,EN-OR-025-NC,EN,scalar_implicature,or,no_context,Those guys or the people were noticing the photograph.,"Those guys, the people, or possibly both were noticing the photograph",Those guys or the people — but not both — were noticing the photograph,Those guys or the people — but not both — were noticing the photograph,"Those guys, the people, or possibly both were noticing the photograph",B,literal,True,B,,,,,True,"Sentence: ""Those guys or the people were noticing the photograph.""
+
+A) Those guys or the people — but not both — were noticing the photograph
+B) Those guys, the people, or possibly both were noticing the photograph
+
+Answer with only A or B."
+OR-025,EN-OR-025-EX,EN,scalar_implicature,or,exclusive_context,Those guys or the people were noticing the photograph.,"Those guys, the people, or possibly both were noticing the photograph",Those guys or the people — but not both — were noticing the photograph,"Those guys, the people, or possibly both were noticing the photograph",Those guys or the people — but not both — were noticing the photograph,B,pragmatic,False,B,,,,,True,"Context: Only one of the two groups is true — both cannot apply at the same time.
+Sentence: ""Those guys or the people were noticing the photograph.""
+
+A) Those guys, the people, or possibly both were noticing the photograph
+B) Those guys or the people — but not both — were noticing the photograph
+
+Answer with only A or B."
+OR-025,EN-OR-025-IN,EN,scalar_implicature,or,inclusive_context,Those guys or the people were noticing the photograph.,"Those guys, the people, or possibly both were noticing the photograph",Those guys or the people — but not both — were noticing the photograph,Those guys or the people — but not both — were noticing the photograph,"Those guys, the people, or possibly both were noticing the photograph",B,literal,True,B,,,,,True,"Context: Both possibilities are open — either or both could be true.
+Sentence: ""Those guys or the people were noticing the photograph.""
+
+A) Those guys or the people — but not both — were noticing the photograph
+B) Those guys, the people, or possibly both were noticing the photograph
+
+Answer with only A or B."

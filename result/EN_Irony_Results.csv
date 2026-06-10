@@ -1,0 +1,401 @@
+﻿ITEM_ID,LANGUAGE,PHENOMENON,LABEL,TWEET,OPTION_SARCASTIC,OPTION_SINCERE,OPTION_A,OPTION_B,EXPECTED,COUNTERBALANCED,MODEL_RESPONSE,CORRECT,PROMPT
+EN-IRO-001,EN,irony_sarcasm,sincere,I genuinely love musicians.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""I genuinely love musicians.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-002,EN,irony_sarcasm,sarcastic,Met the artists. Best experience ever. Not.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""Met the artists. Best experience ever. Not.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-003,EN,irony_sarcasm,sarcastic,Went to the conference. Best experience ever. Not.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""Went to the conference. Best experience ever. Not.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-004,EN,irony_sarcasm,sarcastic,"Engineers are so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""Engineers are so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-005,EN,irony_sarcasm,sarcastic,"Vegetarians are so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""Vegetarians are so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-006,EN,irony_sarcasm,sincere,I am always excited for this book.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""I am always excited for this book.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-007,EN,irony_sarcasm,sincere,I find vegetarians to be wonderful.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""I find vegetarians to be wonderful.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-008,EN,irony_sarcasm,sarcastic,"Doctors are so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""Doctors are so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-009,EN,irony_sarcasm,sincere,This movie is truly inspiring.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""This movie is truly inspiring.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-010,EN,irony_sarcasm,sarcastic,Attended the workshop. Best experience ever. Not.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""Attended the workshop. Best experience ever. Not.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-011,EN,irony_sarcasm,sincere,Writers are genuinely amazing.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""Writers are genuinely amazing.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-012,EN,irony_sarcasm,sarcastic,Watched the game. Best experience ever. Not.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""Watched the game. Best experience ever. Not.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-013,EN,irony_sarcasm,sarcastic,"Writers are so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""Writers are so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-014,EN,irony_sarcasm,sarcastic,"The concert is so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""The concert is so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-015,EN,irony_sarcasm,sincere,Doctors have always been great.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""Doctors have always been great.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-016,EN,irony_sarcasm,sincere,I find musicians to be wonderful.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""I find musicians to be wonderful.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-017,EN,irony_sarcasm,sarcastic,"Musicians are so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""Musicians are so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-018,EN,irony_sarcasm,sarcastic,Had a meal at the restaurant. Best experience ever. Not.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""Had a meal at the restaurant. Best experience ever. Not.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-019,EN,irony_sarcasm,sincere,Athletes are truly inspiring.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""Athletes are truly inspiring.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-020,EN,irony_sarcasm,sarcastic,"This movie is so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""This movie is so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-021,EN,irony_sarcasm,sincere,This movie has always been great.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""This movie has always been great.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-022,EN,irony_sarcasm,sarcastic,Got my new phone today. Best experience ever. Not.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""Got my new phone today. Best experience ever. Not.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-023,EN,irony_sarcasm,sincere,The meal was always great.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""The meal was always great.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-024,EN,irony_sarcasm,sincere,Had a great time with the scientists.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""Had a great time with the scientists.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-025,EN,irony_sarcasm,sincere,The meal was genuinely amazing.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""The meal was genuinely amazing.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-026,EN,irony_sarcasm,sincere,I find this book to be wonderful.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""I find this book to be wonderful.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-027,EN,irony_sarcasm,sincere,Had a great time at the conference.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""Had a great time at the conference.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-028,EN,irony_sarcasm,sarcastic,Visited the doctors. Best experience ever. Not.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""Visited the doctors. Best experience ever. Not.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-029,EN,irony_sarcasm,sarcastic,Went to the concert. Best experience ever. Not.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""Went to the concert. Best experience ever. Not.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-030,EN,irony_sarcasm,sincere,Had a great time at the workshop.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""Had a great time at the workshop.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-031,EN,irony_sarcasm,sincere,I find writers to be wonderful.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""I find writers to be wonderful.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-032,EN,irony_sarcasm,sincere,I am always excited for the concert.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""I am always excited for the concert.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-033,EN,irony_sarcasm,sincere,I find the conference to be wonderful.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""I find the conference to be wonderful.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-034,EN,irony_sarcasm,sincere,I find the meal to be wonderful.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""I find the meal to be wonderful.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-035,EN,irony_sarcasm,sarcastic,"Athletes are so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""Athletes are so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-036,EN,irony_sarcasm,sincere,I genuinely love the concert.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""I genuinely love the concert.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-037,EN,irony_sarcasm,sincere,The game was genuinely amazing.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""The game was genuinely amazing.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-038,EN,irony_sarcasm,sarcastic,"The conference is so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""The conference is so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-039,EN,irony_sarcasm,sincere,I am always excited for the workshop.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,B,True,B,True,"Tweet: ""I am always excited for the workshop.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-040,EN,irony_sarcasm,sincere,Had a great time with the meal.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""Had a great time with the meal.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-041,EN,irony_sarcasm,sarcastic,"The game is so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""The game is so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-042,EN,irony_sarcasm,sincere,I find artists to be wonderful.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""I find artists to be wonderful.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-043,EN,irony_sarcasm,sarcastic,"Artists are so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""Artists are so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-044,EN,irony_sarcasm,sarcastic,"Scientists are so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""Scientists are so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-045,EN,irony_sarcasm,sarcastic,"My new phone is so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""My new phone is so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-046,EN,irony_sarcasm,sarcastic,Had a session with this book. Best experience ever. Not.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""Had a session with this book. Best experience ever. Not.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-047,EN,irony_sarcasm,sarcastic,Spent the evening with musicians. Best experience ever. Not.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""Spent the evening with musicians. Best experience ever. Not.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-048,EN,irony_sarcasm,sarcastic,"This book is so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,B,False,B,True,"Tweet: ""This book is so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."
+EN-IRO-049,EN,irony_sarcasm,sarcastic,"The workshop is so wonderful, said no one ever.",The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,A,True,A,True,"Tweet: ""The workshop is so wonderful, said no one ever.""
+
+What does the speaker most likely mean?
+
+A) The speaker is being sarcastic — they do not genuinely mean this positively.
+B) The speaker sincerely means what they say.
+
+Answer with only A or B."
+EN-IRO-050,EN,irony_sarcasm,sincere,Had a great time with the athletes.,The speaker is being sarcastic — they do not genuinely mean this positively.,The speaker sincerely means what they say.,The speaker sincerely means what they say.,The speaker is being sarcastic — they do not genuinely mean this positively.,A,False,A,True,"Tweet: ""Had a great time with the athletes.""
+
+What does the speaker most likely mean?
+
+A) The speaker sincerely means what they say.
+B) The speaker is being sarcastic — they do not genuinely mean this positively.
+
+Answer with only A or B."

@@ -1,0 +1,901 @@
+﻿SENTENCE_ID,ITEM_ID,LANGUAGE,PHENOMENON,TRIGGER_TYPE,CONDITION,SENTENCE,PRESUPPOSITION,DISTRACTOR,OPTION_A,OPTION_B,EXPECTED,COUNTERBALANCED,MODEL_RESPONSE,CORRECT,PROMPT
+COS-001,EN-COS-001-AFF,EN,presupposition,change_of_state,affirmative,Amanda had left.,Amanda used to be here.,The sentence makes no background assumption about Amanda.,Amanda used to be here.,The sentence makes no background assumption about Amanda.,A,True,,,"Sentence: ""Amanda had left.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Amanda used to be here.
+B) The sentence makes no background assumption about Amanda.
+
+Answer with only A or B."
+COS-001,EN-COS-001-NEG,EN,presupposition,change_of_state,negated,Amanda hadn't left.,Amanda used to be here.,The sentence makes no background assumption about Amanda.,The sentence makes no background assumption about Amanda.,Amanda used to be here.,B,False,,,"Sentence: ""Amanda hadn't left.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Amanda.
+B) Amanda used to be here.
+
+Answer with only A or B."
+COS-002,EN-COS-002-AFF,EN,presupposition,change_of_state,affirmative,Catherine departed.,Catherine used to be here.,The sentence makes no background assumption about Catherine.,Catherine used to be here.,The sentence makes no background assumption about Catherine.,A,True,,,"Sentence: ""Catherine departed.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Catherine used to be here.
+B) The sentence makes no background assumption about Catherine.
+
+Answer with only A or B."
+COS-002,EN-COS-002-NEG,EN,presupposition,change_of_state,negated,Catherine didn't depart.,Catherine used to be here.,The sentence makes no background assumption about Catherine.,The sentence makes no background assumption about Catherine.,Catherine used to be here.,B,False,,,"Sentence: ""Catherine didn't depart.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Catherine.
+B) Catherine used to be here.
+
+Answer with only A or B."
+COS-003,EN-COS-003-AFF,EN,presupposition,change_of_state,affirmative,Jason was leaving.,Jason used to be here.,The sentence makes no background assumption about Jason.,Jason used to be here.,The sentence makes no background assumption about Jason.,A,True,,,"Sentence: ""Jason was leaving.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Jason used to be here.
+B) The sentence makes no background assumption about Jason.
+
+Answer with only A or B."
+COS-003,EN-COS-003-NEG,EN,presupposition,change_of_state,negated,Jason wasn't leaving.,Jason used to be here.,The sentence makes no background assumption about Jason.,The sentence makes no background assumption about Jason.,Jason used to be here.,B,False,,,"Sentence: ""Jason wasn't leaving.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Jason.
+B) Jason used to be here.
+
+Answer with only A or B."
+COS-004,EN-COS-004-AFF,EN,presupposition,change_of_state,affirmative,Dan woke up.,Dan used to be asleep.,The sentence makes no background assumption about Dan.,Dan used to be asleep.,The sentence makes no background assumption about Dan.,A,True,,,"Sentence: ""Dan woke up.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Dan used to be asleep.
+B) The sentence makes no background assumption about Dan.
+
+Answer with only A or B."
+COS-004,EN-COS-004-NEG,EN,presupposition,change_of_state,negated,Dan didn't wake up.,Dan used to be asleep.,The sentence makes no background assumption about Dan.,The sentence makes no background assumption about Dan.,Dan used to be asleep.,B,False,,,"Sentence: ""Dan didn't wake up.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Dan.
+B) Dan used to be asleep.
+
+Answer with only A or B."
+COS-005,EN-COS-005-AFF,EN,presupposition,change_of_state,affirmative,Lori was falling asleep.,Lori was awake.,The sentence makes no background assumption about Lori.,Lori was awake.,The sentence makes no background assumption about Lori.,A,True,,,"Sentence: ""Lori was falling asleep.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Lori was awake.
+B) The sentence makes no background assumption about Lori.
+
+Answer with only A or B."
+COS-005,EN-COS-005-NEG,EN,presupposition,change_of_state,negated,Lori wasn't falling asleep.,Lori was awake.,The sentence makes no background assumption about Lori.,The sentence makes no background assumption about Lori.,Lori was awake.,B,False,,,"Sentence: ""Lori wasn't falling asleep.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Lori.
+B) Lori was awake.
+
+Answer with only A or B."
+COS-006,EN-COS-006-AFF,EN,presupposition,change_of_state,affirmative,Those gates did open.,Those gates are closed.,The sentence makes no background assumption about Those.,Those gates are closed.,The sentence makes no background assumption about Those.,A,True,,,"Sentence: ""Those gates did open.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Those gates are closed.
+B) The sentence makes no background assumption about Those.
+
+Answer with only A or B."
+COS-006,EN-COS-006-NEG,EN,presupposition,change_of_state,negated,Those gates didn't open.,Those gates are closed.,The sentence makes no background assumption about Those.,The sentence makes no background assumption about Those.,Those gates are closed.,B,False,,,"Sentence: ""Those gates didn't open.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Those.
+B) Those gates are closed.
+
+Answer with only A or B."
+COS-007,EN-COS-007-AFF,EN,presupposition,change_of_state,affirmative,Those eyes have closed.,Those eyes used to be open.,The sentence makes no background assumption about Those.,Those eyes used to be open.,The sentence makes no background assumption about Those.,A,True,,,"Sentence: ""Those eyes have closed.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Those eyes used to be open.
+B) The sentence makes no background assumption about Those.
+
+Answer with only A or B."
+COS-007,EN-COS-007-NEG,EN,presupposition,change_of_state,negated,Those eyes haven't closed.,Those eyes used to be open.,The sentence makes no background assumption about Those.,The sentence makes no background assumption about Those.,Those eyes used to be open.,B,False,,,"Sentence: ""Those eyes haven't closed.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Those.
+B) Those eyes used to be open.
+
+Answer with only A or B."
+COS-008,EN-COS-008-AFF,EN,presupposition,change_of_state,affirmative,Windows shut.,Windows were open.,The sentence makes no background assumption about Window.,Windows were open.,The sentence makes no background assumption about Window.,A,True,,,"Sentence: ""Windows shut.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Windows were open.
+B) The sentence makes no background assumption about Window.
+
+Answer with only A or B."
+COS-008,EN-COS-008-NEG,EN,presupposition,change_of_state,negated,Windows didn't shut.,Windows were open.,The sentence makes no background assumption about Window.,The sentence makes no background assumption about Window.,Windows were open.,B,False,,,"Sentence: ""Windows didn't shut.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Window.
+B) Windows were open.
+
+Answer with only A or B."
+COS-009,EN-COS-009-AFF,EN,presupposition,change_of_state,affirmative,Dawn escaped.,Dawn used to be captive.,The sentence makes no background assumption about Dawn.,Dawn used to be captive.,The sentence makes no background assumption about Dawn.,A,True,,,"Sentence: ""Dawn escaped.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Dawn used to be captive.
+B) The sentence makes no background assumption about Dawn.
+
+Answer with only A or B."
+COS-009,EN-COS-009-NEG,EN,presupposition,change_of_state,negated,Dawn didn't escape.,Dawn used to be captive.,The sentence makes no background assumption about Dawn.,The sentence makes no background assumption about Dawn.,Dawn used to be captive.,B,False,,,"Sentence: ""Dawn didn't escape.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Dawn.
+B) Dawn used to be captive.
+
+Answer with only A or B."
+COS-010,EN-COS-010-AFF,EN,presupposition,change_of_state,affirmative,Grace has fallen.,Grace was up high.,The sentence makes no background assumption about Grace.,Grace was up high.,The sentence makes no background assumption about Grace.,A,True,,,"Sentence: ""Grace has fallen.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Grace was up high.
+B) The sentence makes no background assumption about Grace.
+
+Answer with only A or B."
+COS-010,EN-COS-010-NEG,EN,presupposition,change_of_state,negated,Grace hasn't fallen.,Grace was up high.,The sentence makes no background assumption about Grace.,The sentence makes no background assumption about Grace.,Grace was up high.,B,False,,,"Sentence: ""Grace hasn't fallen.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Grace.
+B) Grace was up high.
+
+Answer with only A or B."
+COS-011,EN-COS-011-AFF,EN,presupposition,change_of_state,affirmative,Bruce has gotten a job.,Bruce was unemployed.,The sentence makes no background assumption about Bruce.,Bruce was unemployed.,The sentence makes no background assumption about Bruce.,A,True,,,"Sentence: ""Bruce has gotten a job.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Bruce was unemployed.
+B) The sentence makes no background assumption about Bruce.
+
+Answer with only A or B."
+COS-011,EN-COS-011-NEG,EN,presupposition,change_of_state,negated,Bruce hasn't gotten a job.,Bruce was unemployed.,The sentence makes no background assumption about Bruce.,The sentence makes no background assumption about Bruce.,Bruce was unemployed.,B,False,,,"Sentence: ""Bruce hasn't gotten a job.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Bruce.
+B) Bruce was unemployed.
+
+Answer with only A or B."
+COS-012,EN-COS-012-AFF,EN,presupposition,change_of_state,affirmative,Brett got fired.,Brett used to be employed.,The sentence makes no background assumption about Brett.,Brett used to be employed.,The sentence makes no background assumption about Brett.,A,True,,,"Sentence: ""Brett got fired.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Brett used to be employed.
+B) The sentence makes no background assumption about Brett.
+
+Answer with only A or B."
+COS-012,EN-COS-012-NEG,EN,presupposition,change_of_state,negated,Brett didn't get fired.,Brett used to be employed.,The sentence makes no background assumption about Brett.,The sentence makes no background assumption about Brett.,Brett used to be employed.,B,False,,,"Sentence: ""Brett didn't get fired.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Brett.
+B) Brett used to be employed.
+
+Answer with only A or B."
+COS-013,EN-COS-013-AFF,EN,presupposition,change_of_state,affirmative,Maria was healing that guy.,That guy used to be ill.,The sentence makes no background assumption about Maria.,That guy used to be ill.,The sentence makes no background assumption about Maria.,A,True,,,"Sentence: ""Maria was healing that guy.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) That guy used to be ill.
+B) The sentence makes no background assumption about Maria.
+
+Answer with only A or B."
+COS-013,EN-COS-013-NEG,EN,presupposition,change_of_state,negated,Maria wasn't healing that guy.,That guy used to be ill.,The sentence makes no background assumption about Maria.,The sentence makes no background assumption about Maria.,That guy used to be ill.,B,False,,,"Sentence: ""Maria wasn't healing that guy.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Maria.
+B) That guy used to be ill.
+
+Answer with only A or B."
+COS-014,EN-COS-014-AFF,EN,presupposition,change_of_state,affirmative,The guest had found John.,John used to be in an unknown location.,The sentence makes no background assumption about The.,John used to be in an unknown location.,The sentence makes no background assumption about The.,A,True,,,"Sentence: ""The guest had found John.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) John used to be in an unknown location.
+B) The sentence makes no background assumption about The.
+
+Answer with only A or B."
+COS-014,EN-COS-014-NEG,EN,presupposition,change_of_state,negated,The guest hadn't found John.,John used to be in an unknown location.,The sentence makes no background assumption about The.,The sentence makes no background assumption about The.,John used to be in an unknown location.,B,False,,,"Sentence: ""The guest hadn't found John.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about The.
+B) John used to be in an unknown location.
+
+Answer with only A or B."
+COS-015,EN-COS-015-AFF,EN,presupposition,change_of_state,affirmative,This teacher was revealing that man.,That man used to be hidden.,The sentence makes no background assumption about Thi.,That man used to be hidden.,The sentence makes no background assumption about Thi.,A,True,,,"Sentence: ""This teacher was revealing that man.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) That man used to be hidden.
+B) The sentence makes no background assumption about Thi.
+
+Answer with only A or B."
+COS-015,EN-COS-015-NEG,EN,presupposition,change_of_state,negated,This teacher wasn't revealing that man.,That man used to be hidden.,The sentence makes no background assumption about Thi.,The sentence makes no background assumption about Thi.,That man used to be hidden.,B,False,,,"Sentence: ""This teacher wasn't revealing that man.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Thi.
+B) That man used to be hidden.
+
+Answer with only A or B."
+COS-016,EN-COS-016-AFF,EN,presupposition,change_of_state,affirmative,Omar is hiding Sarah.,Sarah was out in the open.,The sentence makes no background assumption about Omar.,Sarah was out in the open.,The sentence makes no background assumption about Omar.,A,True,,,"Sentence: ""Omar is hiding Sarah.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Sarah was out in the open.
+B) The sentence makes no background assumption about Omar.
+
+Answer with only A or B."
+COS-016,EN-COS-016-NEG,EN,presupposition,change_of_state,negated,Omar isn't hiding Sarah.,Sarah was out in the open.,The sentence makes no background assumption about Omar.,The sentence makes no background assumption about Omar.,Sarah was out in the open.,B,False,,,"Sentence: ""Omar isn't hiding Sarah.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Omar.
+B) Sarah was out in the open.
+
+Answer with only A or B."
+COS-017,EN-COS-017-AFF,EN,presupposition,change_of_state,affirmative,This icicle is freezing.,This icicle used to be liquid.,The sentence makes no background assumption about Thi.,This icicle used to be liquid.,The sentence makes no background assumption about Thi.,A,True,,,"Sentence: ""This icicle is freezing.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) This icicle used to be liquid.
+B) The sentence makes no background assumption about Thi.
+
+Answer with only A or B."
+COS-017,EN-COS-017-NEG,EN,presupposition,change_of_state,negated,This icicle isn't freezing.,This icicle used to be liquid.,The sentence makes no background assumption about Thi.,The sentence makes no background assumption about Thi.,This icicle used to be liquid.,B,False,,,"Sentence: ""This icicle isn't freezing.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Thi.
+B) This icicle used to be liquid.
+
+Answer with only A or B."
+COS-018,EN-COS-018-AFF,EN,presupposition,change_of_state,affirmative,The cucumber had ripened.,The cucumber used to be unripe.,The sentence makes no background assumption about The.,The cucumber used to be unripe.,The sentence makes no background assumption about The.,A,True,,,"Sentence: ""The cucumber had ripened.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The cucumber used to be unripe.
+B) The sentence makes no background assumption about The.
+
+Answer with only A or B."
+COS-018,EN-COS-018-NEG,EN,presupposition,change_of_state,negated,The cucumber hadn't ripened.,The cucumber used to be unripe.,The sentence makes no background assumption about The.,The sentence makes no background assumption about The.,The cucumber used to be unripe.,B,False,,,"Sentence: ""The cucumber hadn't ripened.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about The.
+B) The cucumber used to be unripe.
+
+Answer with only A or B."
+COS-019,EN-COS-019-AFF,EN,presupposition,change_of_state,affirmative,Those tomatoes have rotted.,Those tomatoes have been fresh.,The sentence makes no background assumption about Those.,Those tomatoes have been fresh.,The sentence makes no background assumption about Those.,A,True,,,"Sentence: ""Those tomatoes have rotted.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Those tomatoes have been fresh.
+B) The sentence makes no background assumption about Those.
+
+Answer with only A or B."
+COS-019,EN-COS-019-NEG,EN,presupposition,change_of_state,negated,Those tomatoes haven't rotted.,Those tomatoes have been fresh.,The sentence makes no background assumption about Those.,The sentence makes no background assumption about Those.,Those tomatoes have been fresh.,B,False,,,"Sentence: ""Those tomatoes haven't rotted.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Those.
+B) Those tomatoes have been fresh.
+
+Answer with only A or B."
+COS-020,EN-COS-020-AFF,EN,presupposition,change_of_state,affirmative,Brenda climbed down the ladder.,Brenda was at the top of the ladder.,The sentence makes no background assumption about Brenda.,Brenda was at the top of the ladder.,The sentence makes no background assumption about Brenda.,A,True,,,"Sentence: ""Brenda climbed down the ladder.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Brenda was at the top of the ladder.
+B) The sentence makes no background assumption about Brenda.
+
+Answer with only A or B."
+COS-020,EN-COS-020-NEG,EN,presupposition,change_of_state,negated,Brenda didn't climb down the ladder.,Brenda was at the top of the ladder.,The sentence makes no background assumption about Brenda.,The sentence makes no background assumption about Brenda.,Brenda was at the top of the ladder.,B,False,,,"Sentence: ""Brenda didn't climb down the ladder.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Brenda.
+B) Brenda was at the top of the ladder.
+
+Answer with only A or B."
+COS-021,EN-COS-021-AFF,EN,presupposition,change_of_state,affirmative,Tiffany did ascend the slopes.,Tiffany is at the bottom of the slopes.,The sentence makes no background assumption about Tiffany.,Tiffany is at the bottom of the slopes.,The sentence makes no background assumption about Tiffany.,A,True,,,"Sentence: ""Tiffany did ascend the slopes.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Tiffany is at the bottom of the slopes.
+B) The sentence makes no background assumption about Tiffany.
+
+Answer with only A or B."
+COS-021,EN-COS-021-NEG,EN,presupposition,change_of_state,negated,Tiffany didn't ascend the slopes.,Tiffany is at the bottom of the slopes.,The sentence makes no background assumption about Tiffany.,The sentence makes no background assumption about Tiffany.,Tiffany is at the bottom of the slopes.,B,False,,,"Sentence: ""Tiffany didn't ascend the slopes.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Tiffany.
+B) Tiffany is at the bottom of the slopes.
+
+Answer with only A or B."
+COS-022,EN-COS-022-AFF,EN,presupposition,change_of_state,affirmative,Nancy did fix the plane.,The plane is broken.,The sentence makes no background assumption about Nancy.,The plane is broken.,The sentence makes no background assumption about Nancy.,A,True,,,"Sentence: ""Nancy did fix the plane.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The plane is broken.
+B) The sentence makes no background assumption about Nancy.
+
+Answer with only A or B."
+COS-022,EN-COS-022-NEG,EN,presupposition,change_of_state,negated,Nancy didn't fix the plane.,The plane is broken.,The sentence makes no background assumption about Nancy.,The sentence makes no background assumption about Nancy.,The plane is broken.,B,False,,,"Sentence: ""Nancy didn't fix the plane.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Nancy.
+B) The plane is broken.
+
+Answer with only A or B."
+COS-023,EN-COS-023-AFF,EN,presupposition,change_of_state,affirmative,Debra did clean those cups.,Those cups are dirty.,The sentence makes no background assumption about Debra.,Those cups are dirty.,The sentence makes no background assumption about Debra.,A,True,,,"Sentence: ""Debra did clean those cups.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Those cups are dirty.
+B) The sentence makes no background assumption about Debra.
+
+Answer with only A or B."
+COS-023,EN-COS-023-NEG,EN,presupposition,change_of_state,negated,Debra didn't clean those cups.,Those cups are dirty.,The sentence makes no background assumption about Debra.,The sentence makes no background assumption about Debra.,Those cups are dirty.,B,False,,,"Sentence: ""Debra didn't clean those cups.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Debra.
+B) Those cups are dirty.
+
+Answer with only A or B."
+COS-024,EN-COS-024-AFF,EN,presupposition,change_of_state,affirmative,George does break this window.,This window is whole.,The sentence makes no background assumption about George.,This window is whole.,The sentence makes no background assumption about George.,A,True,,,"Sentence: ""George does break this window.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) This window is whole.
+B) The sentence makes no background assumption about George.
+
+Answer with only A or B."
+COS-024,EN-COS-024-NEG,EN,presupposition,change_of_state,negated,George doesn't break this window.,This window is whole.,The sentence makes no background assumption about George.,The sentence makes no background assumption about George.,This window is whole.,B,False,,,"Sentence: ""George doesn't break this window.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about George.
+B) This window is whole.
+
+Answer with only A or B."
+COS-025,EN-COS-025-AFF,EN,presupposition,change_of_state,affirmative,This waiter came here.,This waiter was not here.,The sentence makes no background assumption about Thi.,This waiter was not here.,The sentence makes no background assumption about Thi.,A,True,,,"Sentence: ""This waiter came here.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) This waiter was not here.
+B) The sentence makes no background assumption about Thi.
+
+Answer with only A or B."
+COS-025,EN-COS-025-NEG,EN,presupposition,change_of_state,negated,This waiter didn't come here.,This waiter was not here.,The sentence makes no background assumption about Thi.,The sentence makes no background assumption about Thi.,This waiter was not here.,B,False,,,"Sentence: ""This waiter didn't come here.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Thi.
+B) This waiter was not here.
+
+Answer with only A or B."
+PDE-001,EN-PDE-001-AFF,EN,presupposition,possessed_definite,affirmative,Paul's doctor does cook.,Paul has a doctor.,The sentence makes no background assumption about Paul.,Paul has a doctor.,The sentence makes no background assumption about Paul.,A,True,,,"Sentence: ""Paul's doctor does cook.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Paul has a doctor.
+B) The sentence makes no background assumption about Paul.
+
+Answer with only A or B."
+PDE-001,EN-PDE-001-NEG,EN,presupposition,possessed_definite,negated,Paul's doctor doesn't cook.,Paul has a doctor.,The sentence makes no background assumption about Paul.,The sentence makes no background assumption about Paul.,Paul has a doctor.,B,False,,,"Sentence: ""Paul's doctor doesn't cook.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Paul.
+B) Paul has a doctor.
+
+Answer with only A or B."
+PDE-002,EN-PDE-002-AFF,EN,presupposition,possessed_definite,affirmative,Bill's teacher does hurt Maria.,Bill has a teacher.,The sentence makes no background assumption about Bill.,Bill has a teacher.,The sentence makes no background assumption about Bill.,A,True,,,"Sentence: ""Bill's teacher does hurt Maria.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Bill has a teacher.
+B) The sentence makes no background assumption about Bill.
+
+Answer with only A or B."
+PDE-002,EN-PDE-002-NEG,EN,presupposition,possessed_definite,negated,Bill's teacher doesn't hurt Maria.,Bill has a teacher.,The sentence makes no background assumption about Bill.,The sentence makes no background assumption about Bill.,Bill has a teacher.,B,False,,,"Sentence: ""Bill's teacher doesn't hurt Maria.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Bill.
+B) Bill has a teacher.
+
+Answer with only A or B."
+PDE-003,EN-PDE-003-AFF,EN,presupposition,possessed_definite,affirmative,Wayne's spouse does leave the dancer.,Wayne has a spouse.,The sentence makes no background assumption about Wayne.,Wayne has a spouse.,The sentence makes no background assumption about Wayne.,A,True,,,"Sentence: ""Wayne's spouse does leave the dancer.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Wayne has a spouse.
+B) The sentence makes no background assumption about Wayne.
+
+Answer with only A or B."
+PDE-003,EN-PDE-003-NEG,EN,presupposition,possessed_definite,negated,Wayne's spouse doesn't leave the dancer.,Wayne has a spouse.,The sentence makes no background assumption about Wayne.,The sentence makes no background assumption about Wayne.,Wayne has a spouse.,B,False,,,"Sentence: ""Wayne's spouse doesn't leave the dancer.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Wayne.
+B) Wayne has a spouse.
+
+Answer with only A or B."
+PDE-004,EN-PDE-004-AFF,EN,presupposition,possessed_definite,affirmative,Deanna's nephew did reference Homer.,Deanna has a nephew.,The sentence makes no background assumption about Deanna.,Deanna has a nephew.,The sentence makes no background assumption about Deanna.,A,True,,,"Sentence: ""Deanna's nephew did reference Homer.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Deanna has a nephew.
+B) The sentence makes no background assumption about Deanna.
+
+Answer with only A or B."
+PDE-004,EN-PDE-004-NEG,EN,presupposition,possessed_definite,negated,Deanna's nephew didn't reference Homer.,Deanna has a nephew.,The sentence makes no background assumption about Deanna.,The sentence makes no background assumption about Deanna.,Deanna has a nephew.,B,False,,,"Sentence: ""Deanna's nephew didn't reference Homer.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Deanna.
+B) Deanna has a nephew.
+
+Answer with only A or B."
+PDE-005,EN-PDE-005-AFF,EN,presupposition,possessed_definite,affirmative,Theresa's girlfriend does reference Elizabeth.,Theresa has a girlfriend.,The sentence makes no background assumption about Theresa.,Theresa has a girlfriend.,The sentence makes no background assumption about Theresa.,A,True,,,"Sentence: ""Theresa's girlfriend does reference Elizabeth.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Theresa has a girlfriend.
+B) The sentence makes no background assumption about Theresa.
+
+Answer with only A or B."
+PDE-005,EN-PDE-005-NEG,EN,presupposition,possessed_definite,negated,Theresa's girlfriend doesn't reference Elizabeth.,Theresa has a girlfriend.,The sentence makes no background assumption about Theresa.,The sentence makes no background assumption about Theresa.,Theresa has a girlfriend.,B,False,,,"Sentence: ""Theresa's girlfriend doesn't reference Elizabeth.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Theresa.
+B) Theresa has a girlfriend.
+
+Answer with only A or B."
+PDE-006,EN-PDE-006-AFF,EN,presupposition,possessed_definite,affirmative,Caroline's rabbits did disgust Sharon.,Caroline has rabbits.,The sentence makes no background assumption about Caroline.,Caroline has rabbits.,The sentence makes no background assumption about Caroline.,A,True,,,"Sentence: ""Caroline's rabbits did disgust Sharon.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Caroline has rabbits.
+B) The sentence makes no background assumption about Caroline.
+
+Answer with only A or B."
+PDE-006,EN-PDE-006-NEG,EN,presupposition,possessed_definite,negated,Caroline's rabbits didn't disgust Sharon.,Caroline has rabbits.,The sentence makes no background assumption about Caroline.,The sentence makes no background assumption about Caroline.,Caroline has rabbits.,B,False,,,"Sentence: ""Caroline's rabbits didn't disgust Sharon.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Caroline.
+B) Caroline has rabbits.
+
+Answer with only A or B."
+PDE-007,EN-PDE-007-AFF,EN,presupposition,possessed_definite,affirmative,Daniel's apples did hurt Connie.,Daniel has apples.,The sentence makes no background assumption about Daniel.,Daniel has apples.,The sentence makes no background assumption about Daniel.,A,True,,,"Sentence: ""Daniel's apples did hurt Connie.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Daniel has apples.
+B) The sentence makes no background assumption about Daniel.
+
+Answer with only A or B."
+PDE-007,EN-PDE-007-NEG,EN,presupposition,possessed_definite,negated,Daniel's apples didn't hurt Connie.,Daniel has apples.,The sentence makes no background assumption about Daniel.,The sentence makes no background assumption about Daniel.,Daniel has apples.,B,False,,,"Sentence: ""Daniel's apples didn't hurt Connie.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Daniel.
+B) Daniel has apples.
+
+Answer with only A or B."
+PDE-008,EN-PDE-008-AFF,EN,presupposition,possessed_definite,affirmative,Dana's bread did irritate Jennifer.,Dana has bread.,The sentence makes no background assumption about Dana.,Dana has bread.,The sentence makes no background assumption about Dana.,A,True,,,"Sentence: ""Dana's bread did irritate Jennifer.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Dana has bread.
+B) The sentence makes no background assumption about Dana.
+
+Answer with only A or B."
+PDE-008,EN-PDE-008-NEG,EN,presupposition,possessed_definite,negated,Dana's bread didn't irritate Jennifer.,Dana has bread.,The sentence makes no background assumption about Dana.,The sentence makes no background assumption about Dana.,Dana has bread.,B,False,,,"Sentence: ""Dana's bread didn't irritate Jennifer.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Dana.
+B) Dana has bread.
+
+Answer with only A or B."
+PDE-009,EN-PDE-009-AFF,EN,presupposition,possessed_definite,affirmative,Florence's car did irritate Christina.,Florence has a car.,The sentence makes no background assumption about Florence.,Florence has a car.,The sentence makes no background assumption about Florence.,A,True,,,"Sentence: ""Florence's car did irritate Christina.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Florence has a car.
+B) The sentence makes no background assumption about Florence.
+
+Answer with only A or B."
+PDE-009,EN-PDE-009-NEG,EN,presupposition,possessed_definite,negated,Florence's car didn't irritate Christina.,Florence has a car.,The sentence makes no background assumption about Florence.,The sentence makes no background assumption about Florence.,Florence has a car.,B,False,,,"Sentence: ""Florence's car didn't irritate Christina.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Florence.
+B) Florence has a car.
+
+Answer with only A or B."
+PDE-010,EN-PDE-010-AFF,EN,presupposition,possessed_definite,affirmative,The child's scarves did crumple.,The child has scarves.,The sentence makes no background assumption about The child.,The child has scarves.,The sentence makes no background assumption about The child.,A,True,,,"Sentence: ""The child's scarves did crumple.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The child has scarves.
+B) The sentence makes no background assumption about The child.
+
+Answer with only A or B."
+PDE-010,EN-PDE-010-NEG,EN,presupposition,possessed_definite,negated,The child's scarves didn't crumple.,The child has scarves.,The sentence makes no background assumption about The child.,The sentence makes no background assumption about The child.,The child has scarves.,B,False,,,"Sentence: ""The child's scarves didn't crumple.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about The child.
+B) The child has scarves.
+
+Answer with only A or B."
+PDE-011,EN-PDE-011-AFF,EN,presupposition,possessed_definite,affirmative,Tamara's jackets do bore Donna.,Tamara has jackets.,The sentence makes no background assumption about Tamara.,Tamara has jackets.,The sentence makes no background assumption about Tamara.,A,True,,,"Sentence: ""Tamara's jackets do bore Donna.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Tamara has jackets.
+B) The sentence makes no background assumption about Tamara.
+
+Answer with only A or B."
+PDE-011,EN-PDE-011-NEG,EN,presupposition,possessed_definite,negated,Tamara's jackets don't bore Donna.,Tamara has jackets.,The sentence makes no background assumption about Tamara.,The sentence makes no background assumption about Tamara.,Tamara has jackets.,B,False,,,"Sentence: ""Tamara's jackets don't bore Donna.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Tamara.
+B) Tamara has jackets.
+
+Answer with only A or B."
+PDE-012,EN-PDE-012-AFF,EN,presupposition,possessed_definite,affirmative,April's restaurant does shock Adam.,April has a restaurant.,The sentence makes no background assumption about April.,April has a restaurant.,The sentence makes no background assumption about April.,A,True,,,"Sentence: ""April's restaurant does shock Adam.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) April has a restaurant.
+B) The sentence makes no background assumption about April.
+
+Answer with only A or B."
+PDE-012,EN-PDE-012-NEG,EN,presupposition,possessed_definite,negated,April's restaurant doesn't shock Adam.,April has a restaurant.,The sentence makes no background assumption about April.,The sentence makes no background assumption about April.,April has a restaurant.,B,False,,,"Sentence: ""April's restaurant doesn't shock Adam.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about April.
+B) April has a restaurant.
+
+Answer with only A or B."
+PDE-013,EN-PDE-013-AFF,EN,presupposition,possessed_definite,affirmative,Ruth's movie theater did bore Lori.,Ruth has a movie theater.,The sentence makes no background assumption about Ruth.,Ruth has a movie theater.,The sentence makes no background assumption about Ruth.,A,True,,,"Sentence: ""Ruth's movie theater did bore Lori.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Ruth has a movie theater.
+B) The sentence makes no background assumption about Ruth.
+
+Answer with only A or B."
+PDE-013,EN-PDE-013-NEG,EN,presupposition,possessed_definite,negated,Ruth's movie theater didn't bore Lori.,Ruth has a movie theater.,The sentence makes no background assumption about Ruth.,The sentence makes no background assumption about Ruth.,Ruth has a movie theater.,B,False,,,"Sentence: ""Ruth's movie theater didn't bore Lori.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Ruth.
+B) Ruth has a movie theater.
+
+Answer with only A or B."
+PDE-014,EN-PDE-014-AFF,EN,presupposition,possessed_definite,affirmative,Steve's bosses did escape.,Steve has bosses.,The sentence makes no background assumption about Steve.,Steve has bosses.,The sentence makes no background assumption about Steve.,A,True,,,"Sentence: ""Steve's bosses did escape.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Steve has bosses.
+B) The sentence makes no background assumption about Steve.
+
+Answer with only A or B."
+PDE-014,EN-PDE-014-NEG,EN,presupposition,possessed_definite,negated,Steve's bosses didn't escape.,Steve has bosses.,The sentence makes no background assumption about Steve.,The sentence makes no background assumption about Steve.,Steve has bosses.,B,False,,,"Sentence: ""Steve's bosses didn't escape.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Steve.
+B) Steve has bosses.
+
+Answer with only A or B."
+PDE-015,EN-PDE-015-AFF,EN,presupposition,possessed_definite,affirmative,Kevin's piano teachers do speak up.,Kevin has piano teachers.,The sentence makes no background assumption about Kevin.,Kevin has piano teachers.,The sentence makes no background assumption about Kevin.,A,True,,,"Sentence: ""Kevin's piano teachers do speak up.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Kevin has piano teachers.
+B) The sentence makes no background assumption about Kevin.
+
+Answer with only A or B."
+PDE-015,EN-PDE-015-NEG,EN,presupposition,possessed_definite,negated,Kevin's piano teachers don't speak up.,Kevin has piano teachers.,The sentence makes no background assumption about Kevin.,The sentence makes no background assumption about Kevin.,Kevin has piano teachers.,B,False,,,"Sentence: ""Kevin's piano teachers don't speak up.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Kevin.
+B) Kevin has piano teachers.
+
+Answer with only A or B."
+PDE-016,EN-PDE-016-AFF,EN,presupposition,possessed_definite,affirmative,Becca's photographs do confuse Anne.,Becca has photographs.,The sentence makes no background assumption about Becca.,Becca has photographs.,The sentence makes no background assumption about Becca.,A,True,,,"Sentence: ""Becca's photographs do confuse Anne.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Becca has photographs.
+B) The sentence makes no background assumption about Becca.
+
+Answer with only A or B."
+PDE-016,EN-PDE-016-NEG,EN,presupposition,possessed_definite,negated,Becca's photographs don't confuse Anne.,Becca has photographs.,The sentence makes no background assumption about Becca.,The sentence makes no background assumption about Becca.,Becca has photographs.,B,False,,,"Sentence: ""Becca's photographs don't confuse Anne.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Becca.
+B) Becca has photographs.
+
+Answer with only A or B."
+PDE-017,EN-PDE-017-AFF,EN,presupposition,possessed_definite,affirmative,Brad's lights did vanish.,Brad has lights.,The sentence makes no background assumption about Brad.,Brad has lights.,The sentence makes no background assumption about Brad.,A,True,,,"Sentence: ""Brad's lights did vanish.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Brad has lights.
+B) The sentence makes no background assumption about Brad.
+
+Answer with only A or B."
+PDE-017,EN-PDE-017-NEG,EN,presupposition,possessed_definite,negated,Brad's lights didn't vanish.,Brad has lights.,The sentence makes no background assumption about Brad.,The sentence makes no background assumption about Brad.,Brad has lights.,B,False,,,"Sentence: ""Brad's lights didn't vanish.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Brad.
+B) Brad has lights.
+
+Answer with only A or B."
+PDE-018,EN-PDE-018-AFF,EN,presupposition,possessed_definite,affirmative,These girls' horses do disturb patients.,These girls have horses.,The sentence makes no background assumption about These girls.,These girls have horses.,The sentence makes no background assumption about These girls.,A,True,,,"Sentence: ""These girls' horses do disturb patients.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) These girls have horses.
+B) The sentence makes no background assumption about These girls.
+
+Answer with only A or B."
+PDE-018,EN-PDE-018-NEG,EN,presupposition,possessed_definite,negated,These girls' horses don't disturb patients.,These girls have horses.,The sentence makes no background assumption about These girls.,The sentence makes no background assumption about These girls.,These girls have horses.,B,False,,,"Sentence: ""These girls' horses don't disturb patients.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about These girls.
+B) These girls have horses.
+
+Answer with only A or B."
+PDE-019,EN-PDE-019-AFF,EN,presupposition,possessed_definite,affirmative,Diana's lakes did appear.,Diana has lakes.,The sentence makes no background assumption about Diana.,Diana has lakes.,The sentence makes no background assumption about Diana.,A,True,,,"Sentence: ""Diana's lakes did appear.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Diana has lakes.
+B) The sentence makes no background assumption about Diana.
+
+Answer with only A or B."
+PDE-019,EN-PDE-019-NEG,EN,presupposition,possessed_definite,negated,Diana's lakes didn't appear.,Diana has lakes.,The sentence makes no background assumption about Diana.,The sentence makes no background assumption about Diana.,Diana has lakes.,B,False,,,"Sentence: ""Diana's lakes didn't appear.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Diana.
+B) Diana has lakes.
+
+Answer with only A or B."
+PDE-020,EN-PDE-020-AFF,EN,presupposition,possessed_definite,affirmative,Melanie's newspaper article did fall.,Melanie has a newspaper article.,The sentence makes no background assumption about Melanie.,Melanie has a newspaper article.,The sentence makes no background assumption about Melanie.,A,True,,,"Sentence: ""Melanie's newspaper article did fall.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Melanie has a newspaper article.
+B) The sentence makes no background assumption about Melanie.
+
+Answer with only A or B."
+PDE-020,EN-PDE-020-NEG,EN,presupposition,possessed_definite,negated,Melanie's newspaper article didn't fall.,Melanie has a newspaper article.,The sentence makes no background assumption about Melanie.,The sentence makes no background assumption about Melanie.,Melanie has a newspaper article.,B,False,,,"Sentence: ""Melanie's newspaper article didn't fall.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Melanie.
+B) Melanie has a newspaper article.
+
+Answer with only A or B."
+PDE-021,EN-PDE-021-AFF,EN,presupposition,possessed_definite,affirmative,Marcus's nose does look like that photograph.,Marcus has a nose.,The sentence makes no background assumption about Marcus.,Marcus has a nose.,The sentence makes no background assumption about Marcus.,A,True,,,"Sentence: ""Marcus's nose does look like that photograph.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Marcus has a nose.
+B) The sentence makes no background assumption about Marcus.
+
+Answer with only A or B."
+PDE-021,EN-PDE-021-NEG,EN,presupposition,possessed_definite,negated,Marcus's nose doesn't look like that photograph.,Marcus has a nose.,The sentence makes no background assumption about Marcus.,The sentence makes no background assumption about Marcus.,Marcus has a nose.,B,False,,,"Sentence: ""Marcus's nose doesn't look like that photograph.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Marcus.
+B) Marcus has a nose.
+
+Answer with only A or B."
+PDE-022,EN-PDE-022-AFF,EN,presupposition,possessed_definite,affirmative,Beverly's mentor does conceal Bill.,Beverly has a mentor.,The sentence makes no background assumption about Beverly.,Beverly has a mentor.,The sentence makes no background assumption about Beverly.,A,True,,,"Sentence: ""Beverly's mentor does conceal Bill.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Beverly has a mentor.
+B) The sentence makes no background assumption about Beverly.
+
+Answer with only A or B."
+PDE-022,EN-PDE-022-NEG,EN,presupposition,possessed_definite,negated,Beverly's mentor doesn't conceal Bill.,Beverly has a mentor.,The sentence makes no background assumption about Beverly.,The sentence makes no background assumption about Beverly.,Beverly has a mentor.,B,False,,,"Sentence: ""Beverly's mentor doesn't conceal Bill.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Beverly.
+B) Beverly has a mentor.
+
+Answer with only A or B."
+PDE-023,EN-PDE-023-AFF,EN,presupposition,possessed_definite,affirmative,Randolf's boyfriend does heal Rhonda.,Randolf has a boyfriend.,The sentence makes no background assumption about Randolf.,Randolf has a boyfriend.,The sentence makes no background assumption about Randolf.,A,True,,,"Sentence: ""Randolf's boyfriend does heal Rhonda.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Randolf has a boyfriend.
+B) The sentence makes no background assumption about Randolf.
+
+Answer with only A or B."
+PDE-023,EN-PDE-023-NEG,EN,presupposition,possessed_definite,negated,Randolf's boyfriend doesn't heal Rhonda.,Randolf has a boyfriend.,The sentence makes no background assumption about Randolf.,The sentence makes no background assumption about Randolf.,Randolf has a boyfriend.,B,False,,,"Sentence: ""Randolf's boyfriend doesn't heal Rhonda.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Randolf.
+B) Randolf has a boyfriend.
+
+Answer with only A or B."
+PDE-024,EN-PDE-024-AFF,EN,presupposition,possessed_definite,affirmative,Keith's ex-girlfriends did annoy Jacqueline.,Keith has ex-girlfriends.,The sentence makes no background assumption about Keith.,Keith has ex-girlfriends.,The sentence makes no background assumption about Keith.,A,True,,,"Sentence: ""Keith's ex-girlfriends did annoy Jacqueline.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Keith has ex-girlfriends.
+B) The sentence makes no background assumption about Keith.
+
+Answer with only A or B."
+PDE-024,EN-PDE-024-NEG,EN,presupposition,possessed_definite,negated,Keith's ex-girlfriends didn't annoy Jacqueline.,Keith has ex-girlfriends.,The sentence makes no background assumption about Keith.,The sentence makes no background assumption about Keith.,Keith has ex-girlfriends.,B,False,,,"Sentence: ""Keith's ex-girlfriends didn't annoy Jacqueline.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Keith.
+B) Keith has ex-girlfriends.
+
+Answer with only A or B."
+PDE-025,EN-PDE-025-AFF,EN,presupposition,possessed_definite,affirmative,Tammy's school does discover who can nod.,Tammy has a school.,The sentence makes no background assumption about Tammy.,Tammy has a school.,The sentence makes no background assumption about Tammy.,A,True,,,"Sentence: ""Tammy's school does discover who can nod.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) Tammy has a school.
+B) The sentence makes no background assumption about Tammy.
+
+Answer with only A or B."
+PDE-025,EN-PDE-025-NEG,EN,presupposition,possessed_definite,negated,Tammy's school doesn't discover who can nod.,Tammy has a school.,The sentence makes no background assumption about Tammy.,The sentence makes no background assumption about Tammy.,Tammy has a school.,B,False,,,"Sentence: ""Tammy's school doesn't discover who can nod.""
+
+This sentence takes something for granted before making its claim.
+What background assumption does it make?
+
+A) The sentence makes no background assumption about Tammy.
+B) Tammy has a school.
+
+Answer with only A or B."
